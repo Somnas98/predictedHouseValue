@@ -1,0 +1,1304 @@
+house_ID,Location,HouseType,Condition,Size_sqft,Bedrooms,Bathrooms,Floors,Parking,YearBuilt,DistanceToCityCenter_km,Price 
+1,Shoreline,Apartment,New,1340,3,3,2,Yes,1955,6.7,313000
+2,Seattle,Bungalow,Old,3650,5,4,2,No,1921,2.3,2384000
+3,Kent,Townhouse,Renovated,1930,3,1,1,No,1966,5.3,342000
+4,Bellevue,Apartment,Renovated,2000,3,1,1,No,1963,6.3,420000
+5,Redmond,Villa,Renovated,1940,4,2,1,Yes,1976,4.5,550000
+6,Seattle,Townhouse,New,880,2,3,1,Yes,1938,1,490000
+7,Redmond,Villa,Renovated,1350,2,3,1,Yes,1976,1.5,335000
+8,Maple Valley,Villa,Old,2710,4,4,2,Yes,1989,6,482000
+9,North Bend,Townhouse,Old,2430,3,3,1,Yes,1985,7,452500
+10,Seattle,Townhouse,New,1520,4,5,3,Yes,1945,8,640000
+11,Lake Forest Park,Apartment,Old,1710,3,3,1,Yes,1948,4,463000
+12,Seattle,Townhouse,Old,2920,4,3,2,Yes,1909,5.5,1400000
+13,Sammamish,Townhouse,New,2330,3,4,1,Yes,1980,6.4,588500
+14,Seattle,Townhouse,Old,1090,3,3,1,Yes,1955,8.4,365000
+15,Seattle,Apartment,Renovated,2910,5,3,2,Yes,1939,5,1200000
+16,Kent,Bungalow,Renovated,1200,3,3,1,Yes,1965,6.1,242500
+17,Bellevue,Townhouse,Renovated,1570,3,3,1,Yes,1956,4.5,419000
+18,Auburn,Villa,New,3110,4,4,2,Yes,1997,2.5,367500
+19,Des Moines,Bungalow,Renovated,1370,3,1,1,Yes,1987,6.5,257950
+20,North Bend,Townhouse,Old,1180,3,1,1,Yes,1983,3.5,275000
+21,Seattle,Apartment,Old,2240,3,2,2,No,1923,6.5,750000
+22,Bellevue,Bungalow,New,1450,4,3,1,No,1954,9.7,435000
+23,Seattle,Townhouse,Old,1750,3,3,1,No,2005,8.5,626000
+24,Bothell,Apartment,Old,2730,4,4,2,Yes,1991,6.5,612500
+25,Seattle,Villa,New,1600,4,3,1,Yes,1959,8.4,495000
+26,Federal Way,Townhouse,Old,2090,3,5,1,No,1987,9.4,285000
+27,Seattle,Villa,Renovated,2360,3,3,1,Yes,1948,6.4,615000
+28,Kirkland,Villa,Renovated,2200,4,3,2,No,1920,5.5,698000
+29,Issaquah,Townhouse,Renovated,2820,5,4,2,Yes,1979,2.5,675000
+30,Seattle,Townhouse,New,2600,3,3,1,Yes,1951,3.6,790000
+31,Kirkland,Apartment,Renovated,1560,4,3,1,Yes,1967,4.9,382500
+32,Woodinville,Townhouse,Old,2860,4,3,2,Yes,2004,5.5,499950
+33,Seattle,Townhouse,Old,1820,4,3,2,Yes,1945,2.5,650000
+34,Shoreline,Townhouse,New,2820,4,4,2,No,2014,1,625000
+35,Auburn,Apartment,Old,3630,4,3,2,Yes,1979,5,400000
+36,Federal Way,Bungalow,Old,3240,3,5,2,Yes,1995,6,604000
+37,Seattle,Townhouse,New,800,2,3,1,No,1944,8,440000
+38,Maple Valley,Villa,Old,1850,3,3,1,Yes,1992,7,287200
+39,Normandy Park,Bungalow,Renovated,1960,3,4,1,Yes,1957,9.5,403000
+40,Seattle,Townhouse,Renovated,2390,3,3,1,No,1955,6.8,750000
+41,Fall City,Apartment,Renovated,1580,3,3,1,No,1978,9.4,335000
+42,Renton,Bungalow,New,1480,4,3,1,No,1974,5.3,260000
+43,Shoreline,Townhouse,Renovated,850,2,3,1,Yes,1950,6.3,308500
+44,Seattle,Apartment,Old,1770,3,4,2,Yes,1990,4.5,439950
+45,Seattle,Villa,Old,1210,2,1,1,Yes,1949,1,235000
+46,Woodinville,Townhouse,New,1160,3,1,1,Yes,1968,1.5,315000
+47,Issaquah,Villa,Old,1970,3,2,2,Yes,1977,6,437500
+48,Renton,Villa,Old,1930,3,3,2,Yes,1996,7,407500
+49,Seattle,Townhouse,New,1270,3,4,3,Yes,2001,8,445700
+50,Redmond,Townhouse,Old,3310,4,3,2,Yes,2001,4,838000
+51,Issaquah,Apartment,Renovated,2710,4,5,2,Yes,2000,5.5,630000
+52,Sammamish,Townhouse,Renovated,2910,3,3,1,Yes,1979,6.4,550000
+53,Seattle,Townhouse,Renovated,2710,3,3,1,Yes,1929,8.4,805000
+54,Carnation,Townhouse,New,1800,3,4,1,Yes,1968,5,284000
+55,Bothell,Apartment,Renovated,2210,5,3,1,Yes,1976,6.1,470000
+56,Bellevue,Bungalow,Old,1920,4,3,1,Yes,1954,4.5,430000
+57,Auburn,Townhouse,Old,2190,4,3,1,Yes,1968,2.5,491500
+58,Snoqualmie,Villa,New,3660,5,3,2,Yes,2006,6.5,785000
+59,Seattle,Bungalow,Old,1320,3,4,2,No,2008,3.5,385000
+60,Seattle,Townhouse,Old,1630,2,4,2,No,2009,6.5,295000
+61,Snoqualmie,Apartment,New,3310,4,4,2,No,2012,9.7,555000
+62,North Bend,Bungalow,Old,2680,3,4,2,Yes,2013,8.5,459990
+63,Renton,Townhouse,Renovated,2730,4,4,1,Yes,2007,6.5,625000
+64,Kent,Apartment,Renovated,2540,3,3,2,No,2006,8.4,300000
+66,Renton,Villa,Renovated,2920,4,2,2,Yes,2012,9.4,625000
+67,Seattle,Townhouse,New,900,2,3,1,No,1944,6.4,553000
+68,Issaquah,Villa,Renovated,1650,3,3,1,Yes,1986,5.5,379880
+69,Snoqualmie,Villa,Old,1010,3,3,1,Yes,1973,2.5,310000
+70,Redmond,Townhouse,Old,2680,2,3,1,Yes,2004,3.6,775000
+71,Renton,Townhouse,New,2200,3,4,1,Yes,1988,4.9,365000
+72,Auburn,Apartment,Old,2530,4,2,2,Yes,1990,5.5,331950
+73,Seattle,Townhouse,Old,2850,3,3,2,No,1980,2.5,783500
+74,Seattle,Townhouse,New,2280,4,2,1,Yes,1900,1,628000
+75,Sammamish,Townhouse,Old,1900,3,3,2,Yes,1987,5,560000
+76,Kirkland,Apartment,Renovated,1330,3,3,1,No,1928,6,900000
+77,Seattle,Bungalow,Renovated,1270,2,3,2,Yes,2000,8,531000
+78,Seattle,Townhouse,Renovated,2170,4,3,2,Yes,1982,7,831000
+79,Sammamish,Villa,New,2730,4,4,2,Yes,1996,9.5,780000
+80,Bellevue,Bungalow,Renovated,2120,4,4,1,Yes,1960,6.8,755000
+81,Issaquah,Townhouse,Old,2490,3,3,2,Yes,2003,9.4,705380
+82,Issaquah,Townhouse,Old,1990,4,3,1,Yes,1973,6.7,627000
+83,Sammamish,Townhouse,New,3690,4,3,2,Yes,1998,2.3,865000
+84,Seattle,Townhouse,Old,2540,2,5,1,Yes,1942,5.3,580000
+85,Issaquah,Townhouse,Old,1800,3,4,1,Yes,1978,6.3,410000
+86,Kirkland,Apartment,New,2340,4,4,1,Yes,1979,4.5,485000
+87,Shoreline,Bungalow,Old,2110,2,5,1,Yes,1948,1,400000
+88,Seattle,Townhouse,Renovated,1140,2,3,1,Yes,1908,1.5,549000
+89,Kirkland,Apartment,Renovated,1480,3,2,1,Yes,2005,6,620000
+90,Seattle,Villa,Renovated,1410,2,4,2,Yes,2006,7,405000
+91,Des Moines,Townhouse,New,1200,2,3,1,Yes,1958,8,232000
+92,Kirkland,Villa,Renovated,3180,5,4,2,Yes,1990,4,800866
+93,Seattle,Villa,Old,2160,3,3,1,Yes,1949,5.5,650000
+94,Seattle,Townhouse,Old,2920,6,4,1,No,1908,6.4,823000
+95,Seattle,Townhouse,New,2350,3,2,2,No,1939,8.4,770000
+96,Seattle,Apartment,Old,1560,3,3,1,No,1944,5,524000
+97,Bellevue,Townhouse,Old,2740,5,3,1,Yes,1960,6.1,541125
+98,Seattle,Townhouse,Old,1680,3,2,3,Yes,1909,4.5,670000
+99,Federal Way,Townhouse,Renovated,3090,5,3,1,No,1968,2.5,384900
+100,Seattle,Apartment,Renovated,1410,3,4,3,Yes,2005,6.5,406100
+102,Seattle,Bungalow,Renovated,4010,5,3,2,No,1971,3.5,1395000
+103,Renton,Townhouse,New,3180,4,4,2,Yes,2000,6.5,736500
+104,Redmond,Villa,Renovated,2010,3,3,1,Yes,1975,9.7,570000
+105,Bellevue,Bungalow,Old,1330,3,3,1,Yes,1961,8.5,787000
+106,Auburn,Townhouse,Old,2370,4,2,2,Yes,1998,6.5,328000
+107,Seattle,Apartment,New,1840,5,4,1,Yes,1942,8.4,435000
+108,Snoqualmie,Bungalow,Old,2910,4,4,2,No,2006,9.4,499000
+109,Bellevue,Townhouse,Old,2070,4,4,1,Yes,1963,6.4,501000
+110,Redmond,Apartment,New,4340,4,3,2,Yes,1992,5.5,1090000
+111,Seattle,Villa,Old,840,2,4,1,No,1955,2.5,400000
+112,Federal Way,Townhouse,Renovated,1240,4,4,1,Yes,1971,3.6,220000
+113,Seattle,Villa,Renovated,1390,4,2,1,Yes,1924,4.9,657100
+114,Maple Valley,Villa,Renovated,2310,4,3,2,No,2006,5.5,309950
+115,Duvall,Townhouse,New,1050,3,4,1,No,1986,2.5,300000
+116,Issaquah,Townhouse,Renovated,2550,5,2,1,No,1960,1,525888
+117,Seattle,Apartment,Old,2010,4,2,1,Yes,1902,5,740000
+118,Kirkland,Townhouse,Old,1120,5,3,2,Yes,1962,6,340000
+119,Seattle,Townhouse,New,2230,3,2,2,Yes,1954,8,398750
+120,Burien,Townhouse,Old,810,2,2,1,Yes,1944,7,206000
+121,Bellevue,Apartment,Old,3190,5,5,1,Yes,1976,9.5,1030000
+122,Sammamish,Bungalow,New,1670,3,3,1,Yes,1976,6.8,600000
+123,Shoreline,Townhouse,Old,1970,4,4,1,Yes,1960,9.4,379950
+124,Seattle,Villa,Renovated,1450,3,1,1,Yes,1953,5.3,287000
+125,Redmond,Bungalow,Renovated,13540,7,1,3,Yes,1999,6.3,2280000
+126,Renton,Townhouse,Renovated,1880,3,2,2,Yes,1994,4.5,309950
+127,Seattle,Apartment,New,1880,3,3,1,Yes,1945,1,600000
+128,Seattle,Bungalow,Renovated,1410,3,3,1,Yes,1930,1.5,418000
+129,Seattle,Townhouse,Old,1480,4,4,1,Yes,1928,6,449250
+130,Seattle,Apartment,Old,1140,2,3,2,Yes,1949,7,329950
+131,Auburn,Villa,New,1920,3,5,1,Yes,1984,8,245000
+132,Renton,Townhouse,Old,2910,4,3,2,Yes,2008,4,549000
+133,Sammamish,Villa,Old,3240,3,3,2,No,1994,5.5,800000
+134,Renton,Villa,New,1550,3,4,1,No,1958,6.4,249950
+135,Des Moines,Townhouse,Old,2050,5,3,1,No,1956,8.4,210000
+136,Seattle,Townhouse,Renovated,2220,2,3,2,Yes,2000,5,1425000
+137,Seattle,Apartment,Renovated,1770,2,3,1,Yes,1949,6.1,585000
+138,Redmond,Townhouse,Renovated,2300,4,3,1,No,1977,4.5,615000
+139,Seattle,Townhouse,New,1800,3,4,1,Yes,1942,2.5,618500
+140,Kirkland,Townhouse,Renovated,2010,4,1,1,No,1977,6.5,487585
+141,Issaquah,Apartment,Old,1790,3,1,2,Yes,2010,3.5,509900
+142,Seattle,Bungalow,Old,2440,4,2,2,Yes,2014,6.5,631625
+143,Issaquah,Townhouse,New,1940,3,3,2,Yes,2009,9.7,555000
+144,Seattle,Villa,Old,1160,2,3,2,Yes,2001,8.5,340000
+145,Redmond,Bungalow,Old,3400,4,4,2,Yes,2007,6.5,830000
+146,Issaquah,Townhouse,New,4420,4,3,2,No,2006,8.4,890000
+147,Seattle,Apartment,Old,1571,3,5,3,No,2008,9.4,366750
+148,Issaquah,Bungalow,Renovated,1620,3,3,1,Yes,2010,6.4,415000
+149,Seattle,Townhouse,Renovated,1408,3,3,3,Yes,2005,5.5,416286
+150,Renton,Apartment,Renovated,3040,3,4,2,Yes,2007,2.5,478000
+151,Issaquah,Villa,New,4490,5,3,2,Yes,2006,3.6,890000
+152,Issaquah,Townhouse,Renovated,1590,2,3,2,Yes,2014,4.9,419190
+153,Redmond,Villa,Old,2450,4,3,2,No,2013,5.5,712198
+154,Kirkland,Villa,Old,1440,4,3,1,Yes,1971,2.5,397000
+155,Seattle,Townhouse,New,1100,2,4,2,Yes,1912,1,450000
+156,Seattle,Townhouse,Old,1350,3,3,1,No,1947,5,353000
+157,Redmond,Apartment,Old,2150,4,5,2,Yes,1985,6,609000
+158,Covington,Townhouse,New,1490,3,3,1,Yes,1975,8,234000
+159,Seattle,Townhouse,Old,2000,3,3,2,Yes,1916,7,561000
+160,Seattle,Townhouse,Renovated,1030,2,4,1,Yes,1924,9.5,469000
+161,Seattle,Apartment,Renovated,720,2,3,1,Yes,1942,6.8,329350
+163,Seattle,Bungalow,Renovated,2020,5,3,1,Yes,1938,9.4,488000
+164,Des Moines,Townhouse,New,1580,3,3,1,Yes,1962,5.3,279900
+165,Issaquah,Villa,Renovated,2110,4,3,2,Yes,1987,6.8,606000
+166,Seattle,Bungalow,Old,1300,4,4,1,Yes,1950,9.1,312000
+167,Seattle,Townhouse,Old,1630,3,1,1,Yes,1940,5.8,650000
+168,Seattle,Townhouse,New,3370,4,1,1,Yes,1970,3,1135000
+169,Seattle,Townhouse,Old,1890,4,2,1,Yes,1980,6,325000
+170,Inglewood-Finn Hill,Townhouse,Old,1520,4,3,1,Yes,1967,8,425000
+171,Seattle,Townhouse,New,900,2,4,1,Yes,1952,5,219000
+172,Shoreline,Apartment,Old,1050,3,3,1,Yes,1954,1,250000
+173,Bellevue,Bungalow,Renovated,1260,3,5,1,Yes,1966,1,390000
+174,Kenmore,Townhouse,Renovated,3470,6,3,2,Yes,1924,2,475000
+175,Bellevue,Apartment,Renovated,2290,4,3,2,No,1988,3,736000
+176,Des Moines,Villa,New,2810,4,4,1,No,1958,5,407000
+177,Carnation,Townhouse,Renovated,1650,3,3,2,No,1998,6,272000
+178,Burien,Villa,Old,1640,3,3,1,Yes,1963,5.6,362000
+179,Kirkland,Villa,Old,1850,3,3,2,Yes,1991,5.5,535000
+180,Kent,Townhouse,New,2000,4,3,2,No,2003,4.5,284000
+181,Shoreline,Townhouse,Old,1410,3,4,1,Yes,1961,2.3,367500
+182,Kenmore,Apartment,Old,1500,4,4,1,No,1955,5.3,379900
+183,Renton,Townhouse,New,2460,3,4,2,Yes,1980,6.3,520000
+184,Renton,Townhouse,Old,1010,3,4,1,Yes,1954,4.5,175000
+185,Seattle,Townhouse,Renovated,1230,2,4,2,Yes,2004,1,460000
+186,Renton,Apartment,Renovated,2331,4,3,2,Yes,2007,1.5,345000
+187,Kirkland,Bungalow,Renovated,2240,5,2,1,Yes,1978,6,455000
+188,Bellevue,Townhouse,New,2450,4,3,1,No,1967,7,610000
+189,Kenmore,Villa,Renovated,3100,4,3,2,Yes,1996,8,563000
+190,Seattle,Bungalow,Old,2060,4,3,1,Yes,1949,4,612500
+191,Federal Way,Townhouse,Old,1850,3,3,1,No,1979,5.5,218000
+192,Bellevue,Apartment,New,1840,4,4,1,Yes,1958,6.4,404000
+193,Redmond,Bungalow,Old,3740,4,2,2,Yes,2000,8.4,860000
+194,Federal Way,Townhouse,Old,1420,3,3,1,No,1962,5,136500
+195,Seattle,Apartment,New,1510,3,2,1,No,1940,6.1,313950
+196,Seattle,Villa,Old,2130,3,3,1,No,1954,4.5,575000
+197,Seattle,Townhouse,Renovated,3490,4,3,2,Yes,1928,2.5,1225000
+198,North Bend,Villa,Renovated,1630,3,3,1,Yes,1971,6.5,280000
+199,Sammamish,Villa,Renovated,1790,3,3,2,Yes,1989,3.5,515000
+200,Kenmore,Townhouse,New,2000,4,4,2,Yes,1996,6.5,513000
+201,Bellevue,Townhouse,Renovated,2260,4,4,2,Yes,1977,9.7,599000
+202,Sammamish,Apartment,Old,3030,4,3,2,Yes,1999,8.5,685000
+203,Seattle,Townhouse,Old,1310,3,3,1,Yes,1950,6.5,365000
+204,Sammamish,Townhouse,New,3880,4,3,2,Yes,1987,8.4,762300
+205,Seattle,Townhouse,Old,3760,4,5,2,Yes,1950,9.4,1580000
+206,Redmond,Apartment,Old,3040,5,4,2,Yes,1984,6.4,562000
+207,Bellevue,Bungalow,New,2910,5,4,1,Yes,1964,5.5,530000
+208,Sammamish,Townhouse,Old,2970,3,5,1,Yes,1995,2.5,525000
+209,Seattle,Villa,Renovated,1660,2,3,1,Yes,1942,3.6,484000
+210,Newcastle,Bungalow,Renovated,3200,4,2,2,Yes,1998,4.9,725126
+211,Auburn,Townhouse,Renovated,2680,4,4,1,Yes,1965,5.5,360000
+212,Newcastle,Apartment,New,1230,3,3,1,Yes,1962,2.5,387000
+213,Woodinville,Bungalow,Renovated,2740,4,4,2,No,1995,1,483500
+215,Shoreline,Townhouse,Old,3380,4,3,2,No,2000,5,655500
+216,Seattle,Apartment,Old,1110,3,4,1,No,1956,6,345000
+217,Seattle,Villa,New,1800,5,2,2,Yes,1926,8,533000
+218,Seattle,Townhouse,Old,1900,3,3,1,Yes,1982,7,385000
+219,Bellevue,Villa,Old,930,2,3,1,No,1951,9.5,675000
+220,Auburn,Villa,New,1690,3,2,1,Yes,1976,6.8,197000
+221,Seattle,Townhouse,Old,1420,3,3,1,No,1905,9.4,485000
+222,Mercer Island,Townhouse,Renovated,4510,5,4,2,Yes,1969,5.3,1870000
+223,Federal Way,Apartment,Renovated,1980,3,3,1,Yes,1974,6.3,295000
+224,Seattle,Townhouse,Renovated,1170,2,4,1,Yes,1903,4.5,499000
+225,Seattle,Townhouse,New,2200,3,3,2,Yes,2008,1,1050000
+226,Federal Way,Townhouse,Renovated,800,3,3,1,Yes,1959,1.5,191000
+227,Seattle,Apartment,Old,1480,3,2,3,No,2006,6,500000
+228,Seattle,Bungalow,Old,2890,5,4,1,No,2006,7,390000
+229,Seattle,Townhouse,New,2690,3,4,3,No,2014,8,979000
+230,Renton,Villa,Old,3569,4,4,2,Yes,2013,4,580000
+231,Seattle,Bungalow,Old,1270,3,3,3,Yes,2006,5.5,369950
+232,Bellevue,Townhouse,New,4490,5,4,2,Yes,2013,6.4,1800000
+233,Redmond,Apartment,Old,3040,4,4,2,Yes,2008,8.4,776000
+234,Seattle,Bungalow,Renovated,1170,3,2,3,Yes,2014,5,519950
+235,Burien,Townhouse,Renovated,2060,5,3,1,Yes,1962,6.1,255000
+236,Seattle,Apartment,Renovated,990,3,4,1,Yes,1943,4.5,495000
+237,Shoreline,Villa,New,2430,4,2,2,Yes,2003,2.5,510000
+238,Redmond,Townhouse,Renovated,4460,4,2,2,Yes,2001,6.5,1150000
+239,Black Diamond,Villa,Old,1250,3,3,1,Yes,1994,3.5,253000
+240,Kirkland,Villa,Old,1540,3,2,1,Yes,1980,6.5,503000
+241,Maple Valley,Townhouse,New,1600,3,2,2,Yes,1993,9.7,275000
+242,Burien,Townhouse,Old,1110,3,5,1,Yes,1952,8.5,249000
+243,Renton,Apartment,Old,1840,3,3,1,Yes,1974,6.5,310000
+244,Seattle,Townhouse,New,2520,3,4,1,Yes,1946,8.4,750000
+245,Ravensdale,Townhouse,Old,2680,3,1,2,Yes,1995,9.4,630000
+246,Seattle,Townhouse,Renovated,3830,9,1,2,No,1938,6.4,599999
+247,Kirkland,Apartment,Renovated,2410,4,2,1,No,1956,5.5,758000
+248,Covington,Bungalow,Renovated,1720,4,3,1,No,1960,2.5,248500
+249,Kent,Townhouse,New,2070,3,3,1,Yes,1973,3.6,310000
+250,Redmond,Villa,Renovated,1760,3,4,2,Yes,1985,4.9,460000
+251,Bellevue,Bungalow,Old,1680,3,3,1,No,1959,5.5,675000
+252,Seattle,Townhouse,Old,1550,2,5,2,Yes,1900,2.5,526000
+253,Carnation,Townhouse,New,4120,3,3,2,No,1994,1,560000
+254,Bothell,Townhouse,Old,1830,4,3,2,Yes,1991,5,415000
+255,Burien,Townhouse,Old,1400,3,4,1,Yes,1944,6,246000
+256,Federal Way,Townhouse,New,1870,3,3,1,Yes,1957,8,314500
+257,Seattle,Apartment,Old,6210,7,3,1,Yes,1910,7,3200000
+258,Seattle,Bungalow,Renovated,1040,2,3,2,Yes,1904,9.5,420000
+259,Carnation,Townhouse,Renovated,2720,3,3,2,No,1988,6.8,535000
+260,Kirkland,Apartment,Renovated,1010,3,4,1,Yes,1981,9.4,350000
+261,Bellevue,Villa,New,1580,3,1,1,Yes,1967,6.7,515000
+262,Seattle,Townhouse,Renovated,2600,4,1,2,No,1949,2.3,749950
+263,Renton,Villa,Old,1920,3,2,2,Yes,1988,5.3,230000
+264,Seattle,Villa,Old,2350,3,3,2,Yes,1929,6.3,568000
+265,Burien,Townhouse,New,1100,1,3,1,No,1947,4.5,250000
+266,Kirkland,Townhouse,Old,2510,4,4,1,No,1961,1,581000
+267,Kent,Apartment,Old,3240,3,3,2,No,1991,1.5,651000
+268,Issaquah,Townhouse,New,2460,3,5,1,Yes,1977,6,600000
+269,Seattle,Townhouse,Old,1010,2,3,2,Yes,1906,7,500000
+270,Seattle,Townhouse,Renovated,820,2,3,1,Yes,1921,8,475000
+271,Seattle,Apartment,Renovated,2420,5,4,1,Yes,1978,4,352000
+272,Kirkland,Bungalow,Renovated,1770,3,3,2,Yes,1977,5.5,420000
+273,Redmond,Townhouse,New,1350,2,3,1,Yes,2003,6.4,428000
+274,Seattle,Villa,Renovated,1960,3,3,1,Yes,1920,8.4,599000
+275,Shoreline,Bungalow,Old,3305,4,3,2,Yes,1922,5,492000
+276,Renton,Townhouse,Old,2550,2,4,1,Yes,2011,6.1,630000
+277,Woodinville,Apartment,New,4130,5,3,2,Yes,1985,4.5,900000
+278,Clyde Hill,Bungalow,Old,2310,4,5,1,Yes,1950,2.5,1110000
+279,Seattle,Townhouse,Old,1650,4,3,1,Yes,1955,6.5,575000
+280,Seattle,Apartment,New,2650,4,3,1,Yes,1905,3.5,705000
+281,Seattle,Villa,Old,1890,4,4,1,Yes,1963,6.5,940000
+282,Federal Way,Townhouse,Renovated,2190,3,3,1,Yes,1967,9.7,313000
+283,Issaquah,Villa,Renovated,2030,3,3,2,Yes,1988,8.5,618080
+284,Renton,Villa,Renovated,2270,3,3,2,No,2002,6.5,640000
+285,Seattle,Townhouse,New,1610,3,3,1,No,1917,8.4,485000
+286,Seattle,Townhouse,Renovated,760,2,4,1,No,1913,9.4,300000
+287,Redmond,Apartment,Old,1640,2,1,1,Yes,1978,6.4,379500
+288,Renton,Townhouse,Old,1630,3,1,2,Yes,1985,5.5,339950
+289,Seattle,Townhouse,New,3560,6,2,1,No,1914,2.5,1500000
+290,Seattle,Townhouse,Old,2960,3,3,2,Yes,1937,3.6,1340000
+291,Issaquah,Apartment,Old,1940,3,4,1,No,1987,4.9,500000
+292,Kent,Bungalow,Old,1410,3,3,1,Yes,1985,5.5,239900
+293,Renton,Townhouse,Renovated,1040,3,5,1,Yes,1968,2.5,314950
+294,Seattle,Villa,Renovated,820,2,3,1,Yes,1944,1,361280
+295,Algona,Bungalow,Renovated,910,2,3,1,Yes,1956,5,100000
+296,Lake Forest Park,Townhouse,New,3700,7,4,2,Yes,1948,6,540000
+297,Woodinville,Apartment,Renovated,2180,4,3,1,No,1968,8,480500
+298,Auburn,Bungalow,Old,1600,3,3,2,Yes,2000,7,280000
+299,Seattle,Townhouse,Old,1500,3,3,1,Yes,1947,9.5,440000
+300,Seattle,Apartment,New,1340,3,3,1,No,1910,6.8,530000
+301,Issaquah,Villa,Old,1860,3,4,1,Yes,1985,9.4,560000
+302,Seattle,Townhouse,Old,2540,3,4,1,Yes,1905,5.3,775000
+303,Kent,Villa,New,1040,2,4,1,Yes,1912,6.3,160000
+304,Federal Way,Villa,Old,1380,3,4,1,Yes,1960,4.5,209950
+305,Covington,Townhouse,Renovated,1640,3,4,1,Yes,1988,1,226500
+306,Seattle,Townhouse,Renovated,3000,5,3,1,Yes,1958,1.5,380000
+307,Kenmore,Apartment,Renovated,2140,4,2,1,Yes,1968,6,409500
+308,Seattle,Townhouse,New,1760,3,3,1,Yes,1942,7,690000
+309,Shoreline,Townhouse,Renovated,1660,3,3,1,Yes,1961,8,405000
+310,Maple Valley,Townhouse,Old,1830,3,3,2,Yes,1990,4,375000
+311,Seattle,Apartment,Old,2210,4,3,1,Yes,1954,5.5,794154
+312,Burien,Bungalow,New,1490,4,4,1,Yes,1969,6.4,185000
+313,Seattle,Townhouse,Old,1260,3,2,2,Yes,2005,8.4,245000
+314,Kirkland,Villa,Old,4270,5,3,2,Yes,2007,5,1532500
+315,Kirkland,Bungalow,New,3900,4,2,2,Yes,2006,6.1,1040000
+316,Seattle,Townhouse,Old,1150,2,3,3,Yes,2008,4.5,425000
+317,Auburn,Apartment,Renovated,2656,4,3,2,Yes,2014,2.5,495000
+318,Seattle,Bungalow,Renovated,2410,5,3,1,No,2008,6.5,365000
+319,Seattle,Townhouse,Renovated,1606,3,3,3,No,2009,3.5,417250
+320,Seattle,Apartment,New,820,2,4,3,No,2006,6.5,339950
+321,Seattle,Villa,Renovated,1540,2,4,1,Yes,1946,9.7,615000
+322,Duvall,Townhouse,Old,2090,3,3,2,Yes,2012,8.5,403000
+323,Mercer Island,Villa,Old,3160,5,3,1,No,1971,6.5,980000
+324,Federal Way,Villa,New,1730,4,3,1,Yes,1977,8.4,258000
+325,Seattle,Townhouse,Old,1670,3,5,1,No,1967,9.4,533000
+326,Sammamish,Townhouse,Old,2550,4,4,2,Yes,2005,6.4,537500
+327,Mercer Island,Apartment,New,3040,5,4,1,Yes,1968,5.5,830000
+329,Seattle,Townhouse,Old,1250,3,5,1,Yes,1900,2.5,712000
+330,Algona,Townhouse,Renovated,2020,4,3,2,Yes,2002,3.6,262000
+331,Issaquah,Townhouse,Renovated,2660,4,2,2,Yes,2003,4.9,753888
+332,Skykomish,Apartment,Renovated,980,2,4,2,No,1922,5.5,134000
+333,Kirkland,Bungalow,New,1960,3,3,1,Yes,1977,2.5,402000
+334,Seattle,Townhouse,Renovated,720,2,4,1,Yes,1955,1,205000
+335,Seattle,Villa,Old,1360,2,3,2,No,1997,5,553650
+336,Redmond,Bungalow,Old,1870,2,4,1,Yes,2006,6,559950
+337,Kent,Townhouse,New,2130,4,2,1,Yes,1962,8,260000
+338,Kent,Townhouse,Old,1810,4,3,2,No,1994,7,270000
+339,Issaquah,Townhouse,Old,2200,2,3,1,No,1973,9.5,295000
+340,Seattle,Townhouse,New,1690,3,2,1,No,1928,6.8,719000
+341,Kent,Townhouse,Old,1940,3,3,1,Yes,1989,9.4,266000
+342,Kent,Apartment,Renovated,2320,4,4,2,Yes,2004,5.3,325900
+343,Normandy Park,Bungalow,Renovated,2060,4,3,1,Yes,1947,6.8,647500
+344,Seattle,Townhouse,Renovated,3410,4,4,2,Yes,1910,9.1,1039000
+345,Redmond,Apartment,New,2250,4,3,2,Yes,1980,5.8,569000
+346,Kent,Villa,Renovated,1390,3,3,1,Yes,1975,3,246000
+347,Seattle,Townhouse,Old,1060,2,2,1,Yes,1926,6,515000
+348,Seattle,Villa,Old,1490,3,4,1,Yes,1954,8,207000
+349,Bellevue,Villa,New,2480,4,4,1,Yes,1950,5,780000
+350,Kent,Townhouse,Old,2440,5,4,1,Yes,1975,1,489990
+351,Auburn,Townhouse,Old,2240,3,3,1,Yes,1980,1,335000
+352,Federal Way,Apartment,New,1920,3,4,2,Yes,1993,2,295000
+353,Seattle,Townhouse,Old,1890,3,4,1,Yes,1944,3,385000
+354,Kent,Townhouse,Renovated,2250,4,2,1,Yes,1940,5,350000
+355,Seattle,Townhouse,Renovated,1270,2,3,1,Yes,1923,6,235000
+356,Seattle,Apartment,Renovated,960,2,4,2,Yes,1993,5.6,358000
+357,Sammamish,Bungalow,New,3290,4,2,2,No,2002,5.5,716500
+358,Seattle,Townhouse,Renovated,2000,4,2,1,No,1965,4.5,228000
+359,Seattle,Villa,Old,1020,2,3,1,No,1948,1,405000
+360,Redmond,Bungalow,Old,1840,4,2,1,Yes,1967,1.5,538000
+361,Bellevue,Townhouse,New,1980,3,2,1,Yes,1973,6,530000
+362,Seattle,Apartment,Old,3510,6,5,1,No,1906,7,1750000
+363,Seattle,Bungalow,Old,1230,2,3,1,Yes,1925,8,636000
+364,Woodinville,Townhouse,New,2280,4,4,2,No,2004,4,535000
+365,Bellevue,Apartment,Old,2430,3,1,1,Yes,1952,5.5,1500000
+366,Renton,Villa,Renovated,2920,3,1,3,Yes,2008,6.4,868500
+367,Seattle,Townhouse,Renovated,2280,4,2,1,Yes,1930,8.4,530000
+368,Woodinville,Villa,Renovated,1510,3,3,1,Yes,1954,5,450000
+369,Seattle,Villa,New,950,3,3,1,Yes,1939,6.1,230000
+370,Tukwila,Townhouse,Renovated,1190,3,4,2,No,2002,4.5,229000
+371,Redmond,Townhouse,Old,1310,3,3,1,No,1976,2.5,437000
+372,Seattle,Apartment,Old,2800,5,5,1,Yes,1932,6.5,1307000
+373,Kirkland,Townhouse,New,1750,3,3,2,Yes,1991,3.5,595000
+374,Seattle,Townhouse,Old,1320,3,3,1,Yes,1918,6.5,660000
+375,Federal Way,Townhouse,Old,2460,4,4,2,Yes,1989,9.7,347500
+376,Renton,Apartment,New,1240,3,3,1,Yes,1967,8.5,297950
+377,Des Moines,Bungalow,Old,1260,3,3,1,No,1955,6.5,245000
+378,Burien,Townhouse,Renovated,2820,6,3,1,Yes,1940,8.4,543200
+379,Mercer Island,Villa,Renovated,3820,4,3,2,Yes,1990,9.4,1250000
+380,Seattle,Bungalow,Renovated,1540,3,4,3,No,2008,6.4,413450
+381,Snoqualmie,Townhouse,New,1550,2,1,2,Yes,1972,5.5,330000
+382,Redmond,Apartment,Renovated,1460,3,1,1,Yes,1979,2.5,424500
+383,Algona,Bungalow,Old,1390,3,2,1,Yes,1960,3.6,230000
+384,Seattle,Townhouse,Old,2640,3,3,2,Yes,1912,4.9,930000
+385,Renton,Apartment,New,1590,3,3,1,Yes,1988,5.5,349000
+386,Seattle,Villa,Old,1910,4,4,2,Yes,1941,2.5,835000
+387,Burien,Townhouse,Old,2015,3,3,2,Yes,2007,1,988500
+388,Seattle,Villa,New,1410,3,5,3,Yes,2012,5,500000
+389,Seattle,Villa,Old,1110,2,3,2,Yes,2005,6,499000
+390,Seattle,Townhouse,Renovated,860,2,3,2,Yes,2007,8,321950
+391,Kenmore,Townhouse,Renovated,2310,3,4,2,Yes,2011,7,494000
+392,Seattle,Apartment,Renovated,1020,2,3,3,Yes,2008,9.5,441750
+393,Seattle,Townhouse,New,980,2,3,2,Yes,2010,6.8,438000
+394,Woodinville,Townhouse,Renovated,4230,4,3,2,Yes,1989,9.4,985000
+395,Renton,Townhouse,Old,1640,3,3,1,Yes,1972,5.3,352000
+396,Renton,Apartment,Old,3810,4,4,1,Yes,2013,6.3,839900
+397,Issaquah,Bungalow,New,2790,4,3,2,Yes,1996,4.5,765000
+399,Seattle,Townhouse,Old,1750,4,5,2,No,1926,1,460000
+400,Auburn,Villa,Old,1430,4,3,2,No,1983,1.5,224500
+401,Covington,Bungalow,New,1850,3,3,2,No,2003,6,254000
+402,Vashon,Townhouse,Old,960,2,4,1,Yes,1984,7,255000
+403,Woodinville,Apartment,Renovated,2480,3,3,1,Yes,1976,8,610000
+404,Sammamish,Bungalow,Renovated,3750,4,3,2,No,1976,4,920000
+405,Federal Way,Townhouse,Renovated,2600,4,3,2,Yes,1988,5.5,402500
+406,Renton,Apartment,New,1390,3,3,1,No,1912,6.4,280950
+407,Issaquah,Villa,Renovated,2260,4,4,2,Yes,1989,8.4,604000
+408,Lake Forest Park,Townhouse,Old,2470,4,1,2,Yes,1984,5,565000
+409,Seattle,Villa,Old,810,2,1,1,Yes,1928,6.1,255000
+410,Seattle,Villa,New,1650,4,2,1,Yes,1959,4.5,445000
+411,Sammamish,Townhouse,Old,3000,3,3,2,Yes,2001,2.5,2400000
+412,Seattle,Townhouse,Old,720,2,4,1,No,1950,6.5,195000
+413,Fall City,Apartment,New,1390,3,3,1,Yes,1922,3.5,275000
+414,Issaquah,Townhouse,Old,1445,3,5,2,Yes,2003,6.5,387000
+415,Seattle,Townhouse,Renovated,1840,2,3,2,No,1910,9.7,490000
+416,Snoqualmie,Townhouse,Renovated,2100,3,3,2,Yes,1999,8.5,505000
+417,Kirkland,Apartment,Renovated,1060,3,4,1,Yes,1973,6.5,303500
+418,Seattle,Bungalow,New,1500,3,3,1,No,1953,8.4,270000
+419,Renton,Townhouse,Renovated,1970,4,3,1,No,1977,9.4,323000
+420,Seattle,Villa,Old,1410,3,3,3,No,2005,6.4,382000
+421,Bellevue,Bungalow,Old,3720,4,3,1,Yes,1962,5.5,1370000
+422,Auburn,Townhouse,New,2190,4,4,1,Yes,1977,2.5,280000
+423,Federal Way,Townhouse,Old,1920,3,4,1,Yes,1969,3.6,260000
+424,Kent,Townhouse,Old,1160,3,4,1,Yes,1959,4.9,201500
+425,Woodinville,Townhouse,New,5860,4,4,2,Yes,1996,5.5,1157200
+426,Seattle,Townhouse,Old,2000,4,4,2,Yes,1926,2.5,536500
+427,Algona,Apartment,Renovated,2163,4,3,2,Yes,2006,1,248000
+428,Issaquah,Bungalow,Renovated,3480,5,2,1,Yes,1976,5,532000
+429,Kenmore,Townhouse,Renovated,2840,4,3,2,Yes,1998,6,580000
+430,Seattle,Apartment,New,1150,2,3,1,Yes,1905,8,463000
+431,Seattle,Villa,Renovated,3100,4,3,2,Yes,1919,7,742500
+432,Kent,Townhouse,Old,1420,3,3,1,Yes,1963,9.5,260000
+433,Woodinville,Villa,Old,2430,4,4,1,Yes,1993,6.8,590000
+434,Kent,Villa,New,1930,4,2,1,Yes,1984,9.4,312000
+435,Redmond,Townhouse,Old,1660,3,3,1,Yes,1980,6.7,566000
+436,Bellevue,Townhouse,Old,1400,3,2,1,Yes,1963,2.3,511555
+437,Redmond,Apartment,New,2660,4,3,2,No,2001,5.3,583000
+438,Auburn,Townhouse,Old,2000,4,3,1,No,1968,6.3,290000
+439,Renton,Townhouse,Renovated,2130,4,3,1,No,1977,4.5,311100
+440,Seattle,Townhouse,Renovated,1352,3,3,3,Yes,2007,1,325000
+441,Sammamish,Apartment,Renovated,1750,3,4,1,Yes,1987,1.5,491300
+442,Burien,Bungalow,New,2320,5,4,1,No,1956,6,315000
+443,Renton,Townhouse,Renovated,1420,2,3,1,Yes,1956,7,360000
+444,Renton,Villa,Old,1940,4,3,2,No,2003,8,330000
+445,Seattle,Bungalow,Old,1410,3,3,1,Yes,1940,4,481450
+446,Black Diamond,Townhouse,New,1360,3,5,1,Yes,1977,5.5,234950
+447,North Bend,Apartment,Old,1220,3,4,1,Yes,1962,6.4,251000
+448,Bellevue,Bungalow,Old,2830,4,4,2,No,1979,8.4,782000
+449,Sammamish,Townhouse,New,3780,4,5,2,No,1999,5,833000
+450,Bellevue,Apartment,Old,2330,4,3,2,Yes,1978,6.1,542500
+451,Redmond,Villa,Renovated,3560,3,2,2,Yes,1987,4.5,851000
+452,Ravensdale,Townhouse,Renovated,1470,4,4,1,Yes,1976,2.5,325000
+453,Ravensdale,Villa,Renovated,3060,4,3,2,Yes,1992,6.5,415000
+454,Seattle,Villa,New,1030,3,4,1,Yes,1947,3.5,252500
+455,Federal Way,Townhouse,Renovated,1930,4,3,1,Yes,1968,6.5,465000
+456,Duvall,Townhouse,Old,1780,3,4,1,Yes,1979,9.7,336900
+457,Maple Valley,Apartment,Old,2000,3,2,2,Yes,1992,8.5,225000
+458,Renton,Townhouse,New,1690,3,3,1,Yes,1969,6.5,270000
+459,Mercer Island,Townhouse,Old,5190,5,3,2,Yes,1987,8.4,1702500
+460,Seattle,Townhouse,Old,1300,3,2,1.5,Yes,1925,9.4,536000
+461,Woodinville,Apartment,New,2400,4,3,2,Yes,1982,6.4,585000
+462,Seattle,Bungalow,Old,1150,2,4,1,Yes,1940,5.5,445000
+463,Renton,Townhouse,Renovated,2310,4,3,2,Yes,1980,2.5,320000
+464,Seattle,Villa,Renovated,2730,4,4,2,Yes,2006,3.6,769900
+465,Kenmore,Bungalow,Renovated,2840,4,3,2,Yes,2012,4.9,557000
+466,Seattle,Townhouse,New,1020,2,3,2,No,2004,5.5,212000
+467,Seattle,Apartment,Renovated,1340,3,2,3,No,2008,2.5,376000
+468,Carnation,Bungalow,Old,3540,4,4,2,No,2007,1,800000
+469,Issaquah,Townhouse,Old,7270,5,4,2,Yes,2010,5,2238888
+470,Seattle,Apartment,New,998,3,4,2,Yes,2007,6,324000
+471,Seattle,Villa,Old,3060,5,3,1,No,1979,8,549900
+472,Maple Valley,Townhouse,Old,2130,3,4,2,Yes,2003,7,320000
+473,Seattle,Villa,New,2520,4,4,1,No,1921,9.5,875000
+474,Kent,Villa,Old,1940,4,2,1,Yes,1962,6.8,265000
+475,Seattle,Townhouse,Renovated,1350,3,3,3,Yes,2006,9.4,394950
+476,Seattle,Townhouse,Renovated,2160,4,4,2,Yes,1902,5.3,842500
+477,Seattle,Apartment,Renovated,1370,3,2,2,Yes,2007,6.3,368000
+478,Redmond,Townhouse,New,5420,4,2,1,Yes,2001,4.5,1225000
+479,Seattle,Townhouse,Renovated,2830,4,3,1,No,1995,1,885000
+480,Issaquah,Townhouse,Old,2010,3,2,1,Yes,2014,1.5,453246
+481,Clyde Hill,Apartment,Old,3300,4,2,1,Yes,1953,6,927000
+482,Seattle,Bungalow,New,1230,2,5,1,No,2004,7,490000
+483,Shoreline,Townhouse,Old,1720,3,4,2,Yes,1952,8,341000
+484,Seattle,Villa,Old,810,1,1,1,Yes,1941,4,235000
+485,Mercer Island,Bungalow,Old,1560,3,1,3,No,1928,5.5,1200000
+486,Auburn,Townhouse,Renovated,2560,3,2,1,No,1986,6.4,560000
+487,Bellevue,Apartment,Renovated,4700,4,3,2,No,1978,8.4,900000
+488,Seattle,Bungalow,Renovated,1220,2,3,1,Yes,1910,5,255000
+489,Bellevue,Townhouse,New,3650,5,4,1,Yes,1975,6.1,1575000
+490,Mercer Island,Apartment,Renovated,2170,3,3,2,Yes,1928,4.5,876650
+491,Duvall,Villa,Old,2540,4,5,1,Yes,1990,2.5,540000
+492,Seattle,Townhouse,Old,910,2,3,1,Yes,1906,6.5,350000
+493,Bellevue,Villa,New,2980,4,3,2,Yes,2000,3.5,750000
+494,Seattle,Villa,Old,2120,4,4,1,Yes,1951,6.5,582000
+495,Seattle,Townhouse,Old,3460,4,3,1,Yes,2004,9.7,1315000
+496,Seattle,Townhouse,New,2480,5,3,2,Yes,2004,8.5,372500
+497,Maple Valley,Apartment,Old,2200,3,3,1,Yes,1987,6.5,410000
+498,Seattle,Townhouse,Renovated,1730,4,3,1,Yes,1943,8.4,360000
+499,Seattle,Townhouse,Renovated,2920,3,4,2,Yes,1954,9.4,1015000
+500,Renton,Townhouse,Renovated,990,3,1,1,Yes,1966,6.4,225000
+501,Sammamish,Apartment,New,3040,4,1,1,Yes,1999,5.5,647000
+502,Woodinville,Bungalow,Renovated,4530,5,2,1,Yes,2003,2.5,950000
+503,Auburn,Townhouse,Old,1370,3,3,2,Yes,1961,3.6,185000
+504,Renton,Villa,Old,1940,3,3,2,No,2004,4.9,335000
+505,Seattle,Bungalow,New,1040,3,4,1,No,2004,5.5,210000
+506,Kirkland,Townhouse,Old,1800,4,3,1,No,1980,2.5,522000
+507,Seattle,Townhouse,Old,1720,3,5,2,Yes,1954,1,770000
+508,Seattle,Townhouse,New,980,3,3,2,Yes,1941,5,499950
+509,Redmond,Townhouse,Old,3110,4,3,2,No,2004,6,751000
+510,Burien,Townhouse,Renovated,2100,5,4,2,Yes,2013,8,330000
+511,Kirkland,Apartment,Renovated,2020,3,3,2,No,1956,7,465000
+512,Mercer Island,Bungalow,Renovated,2350,4,3,1,Yes,1961,9.5,850000
+513,Mercer Island,Townhouse,New,3290,4,3,1,Yes,1968,6.8,947500
+514,Maple Valley,Apartment,Renovated,2180,5,3,1,Yes,1986,9.4,302000
+515,Seattle,Villa,Old,1290,2,4,1,Yes,2007,5.3,500000
+516,Kent,Townhouse,Old,1460,3,3,1,Yes,1969,6.8,201000
+517,Redmond,Villa,New,1290,2,5,1,No,2008,9.1,265000
+518,Seattle,Villa,Old,2350,4,3,1,Yes,1910,5.8,870300
+519,Shoreline,Townhouse,Old,1080,3,3,2,Yes,1955,3,339000
+520,Issaquah,Townhouse,New,2670,4,4,1,No,1989,6,690000
+521,Issaquah,Apartment,Old,3680,4,3,1,Yes,2003,8,788000
+522,Seattle,Townhouse,Renovated,1440,3,3,2,Yes,1951,5,315275
+523,Seattle,Townhouse,Renovated,1940,4,3,2,Yes,1922,1,505000
+524,Woodinville,Townhouse,Renovated,1280,3,3,3,Yes,1968,1,368000
+525,Burien,Apartment,New,2980,3,4,2,Yes,1917,2,947500
+526,Federal Way,Bungalow,Renovated,970,3,1,2,Yes,1959,3,156000
+527,Seattle,Townhouse,Old,2110,4,1,1,Yes,1930,5,610000
+528,Redmond,Villa,Old,1480,2,2,1,Yes,2009,6,420000
+529,Normandy Park,Bungalow,New,700,2,3,1,Yes,1953,5.6,192000
+530,Seattle,Townhouse,Old,2700,3,4,1,Yes,1962,5.5,910000
+531,Seattle,Apartment,Old,2330,4,3,1,Yes,1918,4.5,1300000
+532,Clyde Hill,Bungalow,New,3380,5,5,1,Yes,1963,2.3,1346400
+533,Seattle,Townhouse,Old,2600,4,3,2,Yes,1936,5.3,840000
+534,Seattle,Apartment,Renovated,1360,2,3,2,Yes,1975,6.3,300000
+535,Kirkland,Villa,Renovated,2780,4,4,2,Yes,1978,4.5,505000
+536,Maple Valley,Townhouse,Renovated,1250,3,3,2,Yes,1945,1,110000
+537,Bellevue,Villa,New,2620,3,3,2,Yes,1992,1.5,746000
+538,Burien,Villa,Renovated,1350,3,3,1,No,1941,6,211000
+539,Seattle,Townhouse,Old,2400,4,3,2,No,1964,7,675000
+540,Seattle,Townhouse,Old,2760,4,4,2,No,1928,8,734200
+541,Mercer Island,Apartment,New,3070,4,4,1,Yes,1976,4,1225000
+542,Vashon,Townhouse,Old,2040,2,4,1,Yes,1919,5.5,615000
+543,Seattle,Townhouse,Old,1770,4,4,1,No,1911,6.4,630000
+544,Bellevue,Townhouse,New,3490,4,4,1,Yes,2012,8.4,1264000
+545,Seattle,Apartment,Old,830,2,3,1,No,2005,5,301500
+546,Seattle,Bungalow,Renovated,980,2,2,2,Yes,2009,6.1,369000
+547,Seattle,Townhouse,Renovated,1570,3,3,2,Yes,2010,4.5,635000
+548,Redmond,Villa,Renovated,3270,4,3,1,Yes,2014,2.5,1033888
+549,Maple Valley,Bungalow,New,2160,4,3,2,Yes,2010,6.5,383000
+550,Kirkland,Townhouse,Renovated,3280,4,3,1,Yes,2008,3.5,1050000
+551,Renton,Apartment,Old,3360,4,4,2,No,2001,6.5,455000
+552,Redmond,Bungalow,Old,3150,5,2,2,Yes,2013,9.7,819900
+553,Seattle,Townhouse,New,1810,3,3,2,Yes,2009,8.5,625000
+554,Sammamish,Apartment,Old,2740,4,2,1,No,1993,6.5,651000
+555,Woodinville,Villa,Old,3830,5,3,2,Yes,1976,8.4,480000
+556,Issaquah,Townhouse,New,3190,3,3,1,Yes,2007,9.4,757000
+557,Kenmore,Villa,Old,2350,3,3,2,No,1977,6.4,460000
+558,Federal Way,Villa,Renovated,2510,4,3,1,No,1972,5.5,267345
+559,Redmond,Townhouse,Renovated,1680,2,4,1,No,2006,2.5,530000
+560,Shoreline,Townhouse,Renovated,1770,3,4,1,Yes,1954,3.6,449500
+561,Renton,Apartment,New,1090,3,3,1,Yes,1981,4.9,289000
+562,Kent,Townhouse,Renovated,3001,5,3,1,Yes,2006,5.5,373000
+563,Seattle,Townhouse,Old,2450,5,3,1,Yes,1994,2.5,525000
+564,Issaquah,Townhouse,Old,3610,3,5,2,Yes,2003,1,777000
+565,Bellevue,Apartment,New,2250,4,4,1,Yes,1956,5,550000
+566,Bellevue,Bungalow,Old,1240,3,4,2,Yes,1957,6,523000
+567,Seattle,Townhouse,Old,2260,4,5,1,Yes,1958,8,628000
+568,Redmond,Villa,New,2090,4,3,1,Yes,1963,7,581000
+569,Seattle,Bungalow,Old,2020,5,2,2,Yes,1962,9.5,245000
+570,Seattle,Townhouse,Renovated,1960,3,4,1,Yes,1911,6.8,415000
+571,Yarrow Point,Apartment,Renovated,3120,5,3,1,Yes,1969,9.4,1895000
+572,Kent,Bungalow,Renovated,1250,3,4,3,Yes,1967,5.3,225000
+573,Duvall,Townhouse,New,1490,3,3,1,Yes,1987,6.3,287000
+574,Seattle,Apartment,Renovated,2890,6,4,3,Yes,1906,4.5,799200
+575,Auburn,Villa,Old,1900,3,2,2,Yes,1942,1,239950
+576,Seattle,Townhouse,Old,1680,3,3,2,No,1922,1.5,591000
+577,Bellevue,Villa,New,2030,3,3,1,No,1975,6,700000
+578,Renton,Villa,Old,3740,4,2,1,No,2004,7,475000
+579,Seattle,Townhouse,Old,1580,3,3,2,Yes,1951,8,575000
+580,Seattle,Townhouse,New,1780,3,4,1,Yes,1927,4,771000
+581,Seattle,Apartment,Old,910,2,3,2,No,1943,5.5,155000
+582,Seattle,Townhouse,Renovated,3440,7,4,1,Yes,1970,6.4,550000
+583,Bellevue,Townhouse,Renovated,1740,3,3,2,No,1975,8.4,645000
+584,Shoreline,Townhouse,Renovated,3400,5,3,1,Yes,1959,5,464000
+585,Sammamish,Apartment,New,4400,4,2,1,Yes,2003,6.1,1050000
+586,Vashon,Bungalow,Renovated,2010,3,4,1,Yes,1977,4.5,350000
+587,Woodinville,Townhouse,Old,2710,4,4,2,Yes,1977,2.5,591000
+588,Seattle,Villa,Old,5300,4,4,1,Yes,1923,6.5,2555000
+589,Seattle,Bungalow,New,1310,3,3,1,No,1956,3.5,717000
+590,SeaTac,Townhouse,Old,1950,4,4,1,No,1939,6.5,225000
+591,Seattle,Townhouse,Old,1040,3,4,2,Yes,1947,9.7,225000
+592,Kirkland,Townhouse,New,1090,3,2,2,Yes,1968,8.5,345000
+593,Seattle,Townhouse,Old,650,2,3,1,Yes,1931,6.5,230000
+594,Seattle,Townhouse,Renovated,1480,3,4,1,Yes,1943,8.4,385000
+595,Kirkland,Apartment,Renovated,790,2,2,1,Yes,1973,9.4,90000
+596,Bellevue,Bungalow,Renovated,3560,4,2,1,No,1986,6.4,860000
+597,Newcastle,Townhouse,New,3000,4,3,1,Yes,2006,5.5,675000
+598,Bellevue,Apartment,Renovated,3490,4,2,3,Yes,2000,2.5,975000
+599,Mercer Island,Villa,Old,2340,3,2,2,No,1967,3.6,780000
+600,Shoreline,Townhouse,Old,1650,3,5,1,Yes,1951,4.9,370000
+601,Seattle,Villa,New,1940,3,3,1,Yes,1944,5.5,665000
+602,Redmond,Villa,Old,3410,5,4,1,Yes,1968,2.5,675000
+603,Seattle,Townhouse,Old,1710,3,1,2,Yes,1909,1,620000
+604,Seattle,Townhouse,New,2740,4,1,1,Yes,1905,5,1105000
+605,Seattle,Apartment,Old,1250,3,2,2,Yes,2010,6,450000
+606,Covington,Townhouse,Renovated,2450,3,3,2,Yes,1978,8,450000
+607,Bellevue,Townhouse,Renovated,1690,3,3,1,Yes,1958,7,530000
+608,Bellevue,Townhouse,Renovated,1950,4,4,1,Yes,1969,9.5,635000
+609,Bellevue,Apartment,New,2290,5,3,2,Yes,1964,6.8,580000
+610,Mercer Island,Bungalow,Renovated,3370,5,5,1,Yes,1982,9.4,1550000
+611,Burien,Townhouse,Old,1090,3,3,1,Yes,1973,6.7,285000
+612,Normandy Park,Villa,Old,1190,3,3,1,Yes,1953,2.3,375000
+613,Mercer Island,Bungalow,New,3530,5,4,1,Yes,2001,5.3,1400000
+614,Seattle,Townhouse,Old,1440,3,3,2,Yes,1910,6.3,560000
+615,Lake Forest Park,Apartment,Old,2180,4,3,2,Yes,1956,4.5,405000
+616,Seattle,Bungalow,New,1410,4,3,2,Yes,1925,1,413000
+617,Auburn,Townhouse,Old,1950,3,3,2,No,1990,1.5,287600
+618,Mercer Island,Apartment,Renovated,4860,5,4,2,No,1989,6,1680000
+619,Auburn,Villa,Renovated,1660,3,1,2,No,1963,7,225000
+620,Woodinville,Townhouse,Renovated,1390,3,1,3,Yes,1968,8,319000
+621,Duvall,Villa,New,1350,3,2,1,Yes,1989,4,322500
+622,Seattle,Villa,Renovated,1530,3,3,3,No,1937,5.5,570000
+623,Seattle,Townhouse,Old,1270,3,3,2,Yes,1950,6.4,465000
+624,Snoqualmie,Townhouse,Old,2140,4,4,2,No,2002,8.4,435000
+625,Kenmore,Apartment,New,2040,4,3,2,Yes,2012,5,502000
+626,Woodinville,Townhouse,Old,2876,3,5,2,Yes,2007,6.1,525000
+627,Seattle,Townhouse,Old,1580,3,3,1,Yes,2008,4.5,525000
+628,Snoqualmie,Townhouse,New,3400,4,3,2,Yes,2012,2.5,660000
+629,Seattle,Apartment,Old,3520,4,4,1,Yes,2006,6.5,870000
+630,Seattle,Bungalow,Renovated,2210,4,3,2,No,2013,3.5,650000
+631,Renton,Townhouse,Renovated,2790,4,3,1,Yes,2009,6.5,505000
+632,Seattle,Villa,Renovated,1450,3,3,2,Yes,2007,9.7,330000
+633,Seattle,Bungalow,New,1620,4,3,1,No,1947,8.5,385000
+634,Seattle,Townhouse,Renovated,1220,3,4,1,Yes,2007,6.5,306000
+635,Seattle,Apartment,Old,2000,3,3,1,Yes,1921,8.4,546000
+636,Mercer Island,Bungalow,Old,2190,4,5,1,No,1958,9.4,925000
+637,Bellevue,Townhouse,New,1900,4,3,2,No,1955,6.4,542000
+639,Seattle,Apartment,Old,1700,3,3,1,No,1906,5.5,800000
+640,Seattle,Villa,Old,2540,5,4,1,Yes,1929,2.5,620000
+641,Des Moines,Townhouse,New,1170,2,3,1,Yes,1911,3.6,175000
+642,Federal Way,Villa,Old,5774,5,3,1,Yes,1984,4.9,740000
+643,Renton,Villa,Renovated,2120,3,3,1,Yes,1984,5.5,345000
+644,Sammamish,Townhouse,Renovated,2170,3,3,1,Yes,1986,2.5,510000
+645,Normandy Park,Townhouse,Renovated,2450,4,4,1,Yes,1974,1,530000
+646,Renton,Apartment,New,700,2,1,1,Yes,1952,5,155000
+647,Kent,Townhouse,Renovated,1780,3,1,2,Yes,1986,6,266000
+648,Auburn,Townhouse,Old,1850,3,2,2,Yes,1952,8,257200
+649,Auburn,Townhouse,Old,1570,3,3,1,Yes,1998,7,265000
+650,Seattle,Apartment,New,1290,3,4,2,Yes,1951,9.5,372220
+651,Seattle,Bungalow,Old,1700,5,3,1,Yes,1956,6.8,337500
+652,Seattle,Townhouse,Old,1159,2,5,2,Yes,1948,9.4,582500
+653,Kirkland,Villa,New,1850,3,3,2,Yes,1965,5.3,489200
+654,Seattle,Bungalow,Old,840,2,3,1,Yes,1947,6.3,405100
+655,Issaquah,Townhouse,Renovated,1690,3,4,1,Yes,2014,4.5,372977
+656,Kenmore,Apartment,Renovated,1050,3,3,2,No,1953,1,310000
+657,Seattle,Bungalow,Renovated,1400,3,3,1,No,1904,1.5,538000
+658,Seattle,Townhouse,New,2550,3,3,2,No,1981,6,1400000
+659,Maple Valley,Apartment,Renovated,1840,3,3,2,Yes,2012,7,317000
+660,Seattle,Villa,Old,2360,3,4,1,Yes,1926,8,702500
+661,Newcastle,Townhouse,Old,2240,4,4,1,No,1989,4,565000
+662,Issaquah,Villa,New,2700,4,4,2,Yes,2004,5.5,723000
+663,Woodinville,Villa,Old,3030,3,4,1,No,1992,6.4,766950
+664,Seattle,Townhouse,Old,1830,3,4,1,Yes,1903,8.4,682000
+665,Kent,Townhouse,New,2220,3,3,1,Yes,1990,5,325000
+666,Shoreline,Apartment,Old,2090,3,2,2,Yes,1962,6.1,543000
+667,Seattle,Townhouse,Renovated,1600,3,3,1,Yes,1924,4.5,525000
+668,Shoreline,Townhouse,Renovated,2010,4,3,1,Yes,1957,2.5,364000
+669,Seattle,Townhouse,Renovated,830,2,3,1,No,1955,6.5,394475
+670,Auburn,Apartment,New,2010,4,3,2,No,1995,3.5,316000
+671,Seattle,Bungalow,Renovated,1050,3,4,1,No,1906,6.5,339950
+672,Fall City,Townhouse,Old,2150,4,2,2,Yes,1978,9.7,486000
+673,Kent,Villa,Old,860,3,3,2,Yes,1963,8.5,160000
+674,Shoreline,Bungalow,New,3100,3,2,2,Yes,1954,6.5,930000
+675,Auburn,Townhouse,Old,1100,3,3,2,Yes,1978,8.4,139000
+676,Bellevue,Townhouse,Old,1830,3,3,1,Yes,1957,9.4,562000
+677,Federal Way,Townhouse,Old,1250,2,3,2,Yes,1950,6.4,299000
+678,Kenmore,Townhouse,Renovated,1820,3,3,2,Yes,2005,5.5,511000
+679,Ravensdale,Townhouse,Renovated,2090,3,4,2,Yes,1959,2.5,499000
+680,Tukwila,Apartment,Renovated,2100,3,4,1,Yes,1980,3.6,356000
+681,Duvall,Bungalow,New,2310,4,3,1,Yes,1991,4.9,470000
+682,Seattle,Townhouse,Renovated,2060,4,3,1,Yes,1941,5.5,715000
+683,Woodinville,Apartment,Old,4470,4,3,2,Yes,1988,2.5,1120000
+684,Seattle,Villa,Old,1660,3,5,1,Yes,1940,1,458000
+685,Sammamish,Townhouse,New,3810,5,4,1,Yes,2008,5,966000
+686,Renton,Villa,Old,2110,3,4,2,Yes,1966,6,305495
+687,Issaquah,Villa,Old,2370,2,5,2,Yes,1992,8,543000
+688,Renton,Townhouse,New,1970,3,3,1,No,1997,7,340000
+689,Redmond,Townhouse,Old,2470,4,2,2,No,1993,9.5,633100
+690,Shoreline,Apartment,Renovated,1480,3,4,1,No,1952,6.8,310000
+691,SeaTac,Townhouse,Renovated,2257,5,3,1,Yes,2005,9.4,349950
+692,Shoreline,Townhouse,Renovated,700,2,4,1,Yes,1949,5.3,267800
+693,Auburn,Townhouse,New,1630,4,3,1,No,1975,6.8,234000
+694,Kirkland,Apartment,Renovated,3430,4,4,2,Yes,2000,9.1,740000
+695,Seattle,Bungalow,Old,2220,5,2,1,No,1923,5.8,607500
+696,Auburn,Townhouse,Old,1340,3,3,1,Yes,1973,3,223000
+697,Seattle,Villa,New,980,2,3,2,Yes,1918,6,400000
+698,Redmond,Bungalow,Old,2580,3,2,1,Yes,1986,8,802000
+699,Covington,Townhouse,Old,2230,4,3,3,Yes,2006,5,253000
+700,Bellevue,Apartment,New,2290,4,4,1,Yes,1955,1,1058000
+701,Seattle,Bungalow,Old,1260,3,3,3,No,1946,1,300000
+702,Redmond,Townhouse,Renovated,1680,4,4,2,Yes,1966,2,625000
+703,Sammamish,Apartment,Renovated,3200,4,3,3,Yes,2004,3,707000
+704,Bellevue,Villa,Renovated,3320,4,3,2,No,1995,5,950000
+705,Auburn,Townhouse,New,3040,4,2,2,Yes,1999,6,420000
+706,Kirkland,Villa,Renovated,2270,4,4,3,Yes,1973,5.6,498000
+707,Federal Way,Villa,Old,2910,3,4,1,No,1989,7,450000
+708,Mercer Island,Townhouse,Old,2510,5,4,1,No,1972,9,955000
+709,Tukwila,Townhouse,New,1240,2,3,2,No,1967,4,215000
+710,Renton,Apartment,Old,2580,3,4,2,Yes,2008,6,437000
+711,Issaquah,Townhouse,Old,2470,3,4,1,Yes,2007,1,773000
+712,Sammamish,Townhouse,New,4910,4,2,1,Yes,2007,3,1222500
+713,Federal Way,Townhouse,Old,1690,3,3,2,Yes,2003,2,256883
+714,Sammamish,Apartment,Renovated,2240,4,4,1,Yes,1983,5,592500
+715,Renton,Bungalow,Renovated,1650,3,2,1,Yes,1979,8,252350
+716,Auburn,Townhouse,Renovated,2710,4,2,1,Yes,1998,9,370000
+717,Bellevue,Villa,New,1260,3,3,2,Yes,1959,6,465750
+718,Seattle,Bungalow,Renovated,1150,3,2,2,Yes,1932,3,185000
+719,Sammamish,Townhouse,Old,2550,4,2,1,Yes,1986,4,582800
+720,Kent,Apartment,Old,1490,3,5,1,Yes,1990,7,245000
+721,Renton,Bungalow,New,2020,4,3,1,Yes,1963,1,302000
+722,Seattle,Townhouse,Old,1320,2,4,2,Yes,1912,5,451555
+723,Renton,Apartment,Old,1230,3,1,1,Yes,1957,6,250000
+724,Federal Way,Villa,New,2070,4,1,2,Yes,1989,9,255000
+725,Seattle,Townhouse,Old,2930,4,2,2,Yes,1947,8,840000
+726,Federal Way,Villa,Renovated,1090,3,3,2,No,1967,2,190000
+727,Seattle,Villa,Renovated,1400,3,3,1,No,1957,3,349950
+728,Seattle,Townhouse,Renovated,1550,4,4,1,No,1909,5,613000
+729,Shoreline,Townhouse,New,1220,3,3,1,Yes,1955,6,300000
+730,Kirkland,Apartment,Renovated,1870,3,5,2,Yes,1980,9,455000
+731,Tukwila,Townhouse,Old,2150,3,3,2,No,1991,8,335000
+732,Seattle,Townhouse,Old,980,3,3,1,Yes,1903,7,197500
+733,Redmond,Townhouse,New,1490,3,4,1,No,1963,4,412500
+734,Bellevue,Apartment,Old,1120,3,3,2,Yes,1955,1,395300
+735,Kenmore,Bungalow,Old,1180,3,3,2,Yes,1986,5,342400
+736,Redmond,Townhouse,New,3240,4,3,2,Yes,1985,6,749400
+737,Kent,Villa,Old,2150,4,3,1,Yes,1991,1,316500
+738,Kenmore,Bungalow,Renovated,2240,3,4,1,Yes,1996,1.5,390000
+739,Renton,Townhouse,Renovated,1400,3,1,2,No,1979,6,225000
+740,Redmond,Apartment,Renovated,1980,3,1,1,Yes,1980,7,550000
+741,North Bend,Bungalow,New,1330,3,2,2,Yes,1959,8,280000
+742,Seattle,Townhouse,Renovated,3200,4,3,1,No,2006,4,1255000
+743,Seattle,Apartment,Old,1490,2,3,1,Yes,1946,5.5,575000
+744,Bellevue,Villa,Old,3920,5,4,2,Yes,1990,6.4,1000000
+745,Seattle,Townhouse,New,2000,5,3,1,Yes,1921,8.4,585000
+746,Issaquah,Villa,Old,2680,4,5,1,Yes,1989,5,620000
+747,Auburn,Villa,Old,1670,4,3,2,Yes,1967,6.1,204700
+748,Sammamish,Townhouse,New,3150,4,3,1,Yes,2001,4.5,695000
+749,Issaquah,Townhouse,Old,2740,4,4,2,Yes,2003,2.5,689900
+750,Shoreline,Apartment,Renovated,1890,4,3,1,Yes,1960,6.5,375000
+751,Seattle,Townhouse,Renovated,2870,7,3,1,Yes,1961,3.5,475000
+752,Maple Valley,Townhouse,Renovated,1160,3,3,1,Yes,1969,6.5,215000
+753,Medina,Townhouse,New,3550,4,3,1,Yes,1962,9.7,2100000
+754,Seattle,Apartment,Renovated,1790,3,4,1,Yes,1940,8.5,790000
+755,Duvall,Bungalow,Old,1680,3,3,2,Yes,1940,6.5,350000
+757,Sammamish,Townhouse,Old,4560,3,5,2,Yes,1986,8.4,695000
+758,Federal Way,Villa,New,1590,3,3,1,Yes,1991,9.4,263000
+759,Shoreline,Bungalow,Old,1630,3,3,1,Yes,1953,6.4,400000
+760,Woodinville,Townhouse,Old,2700,3,4,1,Yes,1991,5.5,525000
+761,Renton,Townhouse,New,1700,3,3,2,No,1994,2.5,349950
+762,Woodinville,Townhouse,Old,3740,4,3,1,No,1988,3.6,1085000
+763,Seattle,Townhouse,Renovated,1980,4,3,2,No,1941,4.9,744000
+764,Seattle,Townhouse,Renovated,880,2,3,1,Yes,1919,5.5,312500
+765,Shoreline,Apartment,Renovated,1400,3,4,1,Yes,1948,2.5,240000
+766,Seattle,Bungalow,New,2050,4,1,1,No,1941,1,495000
+767,Seattle,Townhouse,Renovated,2360,3,1,1,Yes,1996,5,580050
+768,Seattle,Apartment,Old,2560,4,2,1,No,1947,6,640000
+769,Bellevue,Villa,Old,1340,3,3,2,Yes,1956,8,417000
+770,Covington,Townhouse,New,1060,3,4,1,Yes,1970,7,174950
+771,Seattle,Villa,Old,850,3,3,2,Yes,1986,9.5,295000
+772,Kirkland,Villa,Old,1880,4,5,1,Yes,1976,6.8,423000
+773,Bellevue,Townhouse,New,1230,3,3,1,Yes,1955,9.4,839000
+774,Seattle,Townhouse,Old,2290,4,3,1,No,1960,5.3,343000
+775,Seattle,Apartment,Renovated,1660,3,4,1,Yes,1946,6.3,467000
+776,Seattle,Townhouse,Renovated,1840,3,3,1,Yes,1997,4.5,512500
+777,Lake Forest Park,Townhouse,Renovated,3020,4,3,1,No,1979,1,575000
+778,Seattle,Townhouse,New,1410,3,3,1,Yes,1924,1.5,465000
+779,Renton,Apartment,Renovated,1010,3,3,1,Yes,1969,6,270000
+780,Seattle,Bungalow,Old,1960,3,4,1,No,1948,7,340000
+781,Issaquah,Townhouse,Old,3580,5,4,1,No,1999,8,765000
+782,Seattle,Villa,New,2240,4,4,1,No,1995,4,497000
+783,Redmond,Bungalow,Old,3310,4,4,2,Yes,2004,5.5,803100
+784,Seattle,Townhouse,Old,1232,3,4,1,Yes,2007,6.4,344000
+785,Issaquah,Apartment,New,3930,4,3,1,Yes,2013,8.4,828950
+786,Redmond,Bungalow,Old,1720,3,2,2,Yes,2010,5,386380
+787,Seattle,Townhouse,Renovated,1490,3,3,2,Yes,2009,6.1,312000
+788,Fall City,Apartment,Renovated,3150,3,3,2,Yes,2007,4.5,720000
+789,Sammamish,Villa,Renovated,3950,4,3,3,Yes,2013,2.5,914500
+790,Newcastle,Townhouse,New,3030,5,3,2,Yes,2013,6.5,819995
+791,Kent,Villa,Renovated,1070,2,4,1,Yes,1985,3.5,252700
+792,North Bend,Villa,Old,2320,3,2,3,Yes,1992,6.5,437500
+793,Seattle,Townhouse,Old,700,1,3,3,Yes,1942,9.7,350000
+794,Snoqualmie,Townhouse,New,2720,3,2,1,Yes,2005,8.5,619000
+795,Seattle,Apartment,Old,1800,3,3,2,Yes,1990,6.5,408200
+796,Seattle,Townhouse,Old,1560,3,3,1,Yes,1926,8.4,451000
+797,Renton,Townhouse,New,1760,3,3,1,Yes,1977,9.4,317000
+798,Seattle,Townhouse,Old,3120,4,3,1,Yes,2005,6.4,799000
+799,Seattle,Apartment,Renovated,2020,2,4,2,No,1947,5.5,720000
+800,Seattle,Bungalow,Renovated,1450,3,4,1,No,1900,2.5,490000
+801,Federal Way,Townhouse,Renovated,1860,4,3,1,No,1979,3.6,239900
+802,Kirkland,Villa,New,2270,4,3,2,Yes,1977,4.9,446000
+803,North Bend,Bungalow,Renovated,1480,3,3,2,Yes,1987,5.5,275000
+804,Tukwila,Townhouse,Old,1460,5,5,2,No,1941,2.5,239950
+805,Federal Way,Apartment,Old,1850,4,4,1,Yes,1986,1,248000
+806,Issaquah,Bungalow,New,2170,3,4,1,No,2003,5,619500
+807,Vashon,Townhouse,Old,1726,3,5,2,Yes,1982,6,363750
+808,Sammamish,Apartment,Old,1180,3,3,1,Yes,1981,8,385000
+809,Kirkland,Villa,New,1370,4,2,1,Yes,1972,7,370000
+810,Kent,Townhouse,Old,2670,3,4,2,Yes,1988,9.5,425000
+811,Seattle,Villa,Renovated,1260,3,3,1,Yes,1944,6.8,342000
+812,Renton,Villa,Renovated,1980,4,4,1,No,1962,9.4,345000
+813,Seattle,Townhouse,Renovated,2050,3,3,1,No,1926,6.7,724800
+814,Redmond,Townhouse,New,2830,5,4,2,Yes,2006,2.3,725000
+815,Seattle,Apartment,Renovated,910,2,2,1,Yes,1909,5.3,605000
+816,Maple Valley,Townhouse,Old,2440,4,3,2,Yes,2009,6.3,350000
+817,Seattle,Townhouse,Old,2180,3,3,2,Yes,1904,4.5,785000
+818,Maple Valley,Townhouse,New,1900,3,2,1,Yes,1966,1,250000
+819,Seattle,Apartment,Old,1520,3,3,1,No,2013,1.5,565000
+820,Seattle,Bungalow,Old,2220,3,4,1,Yes,1947,6,875000
+821,Woodinville,Townhouse,New,3280,4,3,1,Yes,1996,7,862500
+822,Kent,Villa,Old,2740,3,4,1,No,1973,8,400000
+823,Shoreline,Bungalow,Renovated,830,2,3,1,Yes,1954,4,282613
+824,Des Moines,Townhouse,Renovated,1010,2,3,2,Yes,1955,5.5,174500
+825,Federal Way,Apartment,Renovated,2060,3,2,1,Yes,1978,6.4,306500
+826,Woodinville,Bungalow,New,1990,3,4,1,Yes,1984,8.4,445000
+827,Renton,Townhouse,Renovated,2280,4,4,1,Yes,2001,5,433000
+828,Kent,Apartment,Old,1870,3,4,2,Yes,2005,6.1,306000
+829,Seattle,Villa,Old,1720,3,3,2,Yes,1921,4.5,620000
+830,Seattle,Townhouse,New,870,2,4,1,Yes,1941,2.5,245000
+831,Seattle,Villa,Old,1020,3,4,1,Yes,2004,6.5,238000
+832,Seattle,Villa,Old,1260,3,2,1,Yes,1931,3.5,523000
+833,Snoqualmie,Townhouse,New,2370,3,3,1,Yes,2003,6.5,522500
+834,Seattle,Townhouse,Old,1000,3,4,1,Yes,1940,9.7,180000
+835,Seattle,Apartment,Renovated,1100,3,2,1,Yes,2007,8.5,375000
+836,Kent,Townhouse,Renovated,1440,3,2,2,Yes,1982,6.5,249000
+837,Issaquah,Townhouse,Renovated,3120,4,3,1,Yes,2003,8.4,730100
+838,Bothell,Townhouse,New,2260,2,2,3,Yes,1990,9.4,551000
+839,Des Moines,Apartment,Renovated,2790,4,2,1,Yes,2005,6.4,375000
+840,Seattle,Bungalow,Old,1140,1,5,1,No,1920,5.5,540000
+841,Seattle,Townhouse,Old,1290,3,3,1,No,1987,2.5,605000
+842,Covington,Villa,New,1730,5,4,2,No,1978,3.6,205000
+843,Sammamish,Bungalow,Old,3160,4,1,1,Yes,1983,4.9,645000
+844,Maple Valley,Townhouse,Old,2340,4,1,1,Yes,2003,5.5,314000
+845,Bellevue,Townhouse,New,1170,3,2,2,No,1960,2.5,330000
+846,Seattle,Townhouse,Old,1160,2,3,1,Yes,1937,1,490000
+847,Kenmore,Townhouse,Renovated,1970,3,3,2,No,2010,5,445000
+848,Mercer Island,Townhouse,Renovated,6490,5,4,1,Yes,1991,6,2000000
+849,Issaquah,Apartment,Renovated,1410,3,3,1,Yes,2005,8,377500
+851,Snoqualmie,Bungalow,New,2430,4,5,1,Yes,2009,7,480000
+852,Sammamish,Townhouse,Renovated,3360,5,3,2,Yes,2014,9.5,804995
+853,Seattle,Apartment,Old,1480,3,3,3,Yes,2012,6.8,341000
+854,Snoqualmie,Villa,Old,3200,5,4,2,No,2009,9.4,675000
+855,Issaquah,Townhouse,New,2134,3,3,1,Yes,2008,5.3,611000
+856,Shoreline,Villa,Old,1860,3,3,1,Yes,2007,6.3,379950
+857,Bellevue,Villa,Old,5520,4,3,2,No,2008,4.5,1270000
+858,Seattle,Townhouse,New,1310,2,3,1,Yes,2006,1,500000
+859,Seattle,Townhouse,Old,1700,3,4,2,Yes,1944,1.5,410000
+860,Renton,Apartment,Renovated,2480,3,1,2,No,1986,6,415000
+862,Enumclaw,Townhouse,Renovated,1970,5,1,3,No,1994,7,297000
+863,Redmond,Townhouse,Renovated,2060,4,2,2,No,1985,8,575550
+864,Woodinville,Townhouse,New,2130,3,3,2,Yes,1994,4,534640
+865,Snoqualmie,Apartment,Renovated,1410,3,3,2,Yes,1987,5.5,352500
+866,Seattle,Bungalow,Old,1360,2,4,3,Yes,1944,6.4,488000
+867,Bellevue,Townhouse,Old,1940,3,3,2,Yes,1954,8.4,732000
+868,Renton,Villa,New,1610,2,5,2,Yes,1979,5,215000
+869,Seattle,Bungalow,Old,1420,2,3,1,Yes,1928,6.1,592500
+870,Kent,Townhouse,Old,1700,4,3,1,Yes,1988,4.5,290000
+871,Seattle,Apartment,Old,1490,2,4,2,Yes,1929,2.5,475000
+872,Federal Way,Bungalow,Renovated,2680,3,3,2,Yes,1990,6.5,320000
+873,Bellevue,Townhouse,Renovated,3190,4,3,2,Yes,1967,3.5,1216000
+874,Renton,Apartment,Renovated,2120,5,3,2,Yes,1962,6.5,290000
+875,Seattle,Villa,New,1690,4,3,1,Yes,1901,9.7,487250
+876,Maple Valley,Townhouse,Renovated,1830,4,4,1,Yes,2003,8.5,339000
+877,Seattle,Villa,Old,1010,2,3,2,Yes,1906,6.5,440000
+878,Shoreline,Villa,Old,2070,4,5,2,Yes,1945,8.4,366500
+879,Seattle,Townhouse,New,1710,3,3,1,Yes,1928,9.4,462000
+880,Seattle,Townhouse,Old,1660,4,3,2,No,1945,6.4,560000
+881,Seattle,Apartment,Old,2080,4,4,2,No,1955,5.5,285000
+882,North Bend,Townhouse,New,1270,3,3,1,No,1993,2.5,280000
+883,Seattle,Townhouse,Old,1080,3,3,1,Yes,1942,3.6,210000
+884,Seattle,Townhouse,Renovated,1610,3,3,2,Yes,1940,4.9,690000
+885,Vashon,Apartment,Renovated,1120,2,3,1,No,1980,5.5,256500
+886,Seattle,Bungalow,Renovated,2500,4,4,1,No,1966,2.5,411000
+887,Kent,Townhouse,New,970,3,1,2,Yes,1970,1,215000
+888,Seattle,Villa,Renovated,3370,5,1,2,Yes,1907,5,762000
+889,Auburn,Bungalow,Old,1290,3,2,2,Yes,1960,6,359950
+890,North Bend,Townhouse,Old,3370,4,3,1,Yes,2005,8,480000
+891,Bellevue,Apartment,New,3410,4,4,1,Yes,2008,7,1405000
+892,Auburn,Bungalow,Old,2490,4,3,1,Yes,1999,9.5,390000
+893,Seattle,Townhouse,Old,770,2,5,3,Yes,1924,6.8,413500
+894,Kirkland,Apartment,New,810,1,3,1,Yes,1982,9.4,285000
+895,Shoreline,Villa,Old,3060,4,3,1,Yes,1968,5.3,475000
+896,Issaquah,Townhouse,Renovated,1690,3,4,1,Yes,2014,6.8,386591
+897,Seattle,Villa,Renovated,1890,3,3,1,Yes,1974,9.1,524950
+898,Maple Valley,Villa,Renovated,1470,2,3,2,Yes,2005,5.8,241000
+899,Seattle,Townhouse,New,1060,2,3,2,Yes,1926,3,461000
+900,Woodinville,Townhouse,Renovated,3480,4,3,2,Yes,1988,6,810000
+901,Seattle,Apartment,Old,2730,4,4,1,Yes,1921,8,885000
+902,Federal Way,Townhouse,Old,1580,3,4,2,Yes,1986,5,247000
+903,Kent,Townhouse,New,2170,3,4,1,No,1978,1,296500
+904,Renton,Townhouse,Old,930,2,4,2,No,1942,1,141800
+905,Seattle,Apartment,Old,1580,4,4,1,No,1906,2,333000
+906,Redmond,Bungalow,New,3290,5,3,1,Yes,1973,3,602000
+908,Issaquah,Townhouse,Old,2110,4,2,1,Yes,1979,5,565000
+909,Woodinville,Villa,Renovated,1670,3,3,1,No,1999,6,373000
+910,Redmond,Bungalow,Renovated,2030,3,3,1,Yes,1977,5.6,588000
+911,Seattle,Townhouse,Renovated,1500,3,3,2,No,1926,5.5,485000
+912,Seattle,Apartment,New,1450,3,3,1,Yes,2005,4.5,482500
+913,Des Moines,Bungalow,Renovated,1310,4,4,1,Yes,1953,2.3,251200
+914,Issaquah,Townhouse,Old,4180,5,2,3,Yes,1979,5.3,869000
+915,Woodinville,Apartment,Old,1630,3,3,1,Yes,1967,6.3,464000
+916,Redmond,Villa,New,2660,4,2,1,Yes,1993,4.5,755000
+917,Renton,Townhouse,Old,1720,3,3,1,No,2005,1,280000
+918,Seattle,Villa,Old,1260,2,3,2,Yes,2004,1.5,485000
+919,Renton,Villa,New,1610,3,3,1,Yes,1981,6,305000
+920,SeaTac,Townhouse,Old,680,2,3,1,No,1941,7,110700
+922,Seattle,Townhouse,Renovated,2640,4,4,1,Yes,1937,8,850000
+923,Bellevue,Apartment,Renovated,1640,3,4,2,Yes,1985,4,350000
+924,Renton,Townhouse,Renovated,2310,4,3,2,No,1976,5.5,319950
+925,Seattle,Townhouse,New,2010,3,3,2,No,1912,6.4,700000
+926,Seattle,Townhouse,Renovated,1660,2,3,2,No,1908,8.4,368000
+927,Seattle,Apartment,Old,2200,3,5,1,Yes,2009,5,433500
+928,Redmond,Bungalow,Old,2460,4,4,2,Yes,1998,6.1,611000
+930,Shoreline,Townhouse,New,2430,2,4,1,Yes,1951,4.5,1000000
+931,Carnation,Villa,Old,1370,3,5,1,Yes,1960,2.5,307000
+932,Renton,Bungalow,Old,1800,3,3,1,Yes,1967,6.5,442500
+933,Des Moines,Townhouse,New,2200,3,2,2,Yes,1908,3.5,485000
+934,Seattle,Townhouse,Old,700,2,4,1,Yes,1945,6.5,367000
+935,North Bend,Townhouse,Renovated,1920,3,3,2,Yes,1995,9.7,429000
+936,Kenmore,Townhouse,Renovated,2190,5,4,1,Yes,1978,8.5,446000
+937,Newcastle,Townhouse,Renovated,2030,3,3,1,Yes,1984,6.5,572500
+938,Seattle,Apartment,New,1350,3,4,3,Yes,2005,8.4,477000
+939,Seattle,Bungalow,Renovated,1680,3,2,2,Yes,2008,9.4,518000
+940,Bellevue,Townhouse,Old,1250,5,3,1,Yes,1966,6.4,462000
+941,Seattle,Apartment,Old,2240,4,3,2,Yes,1914,5.5,1190000
+942,Seattle,Villa,New,950,3,2,2,Yes,1954,2.5,137000
+943,Kirkland,Townhouse,Old,2320,3,3,1,Yes,1997,3.6,530000
+944,Redmond,Villa,Old,2380,2,4,1,No,2011,4.9,818000
+945,Seattle,Villa,New,1540,2,3,1,No,2007,5.5,640000
+946,Federal Way,Townhouse,Old,2100,5,4,1,No,2007,2.5,298450
+947,Snoqualmie,Townhouse,Renovated,2500,4,3,1,Yes,2013,1,575000
+948,Sammamish,Apartment,Renovated,3230,4,3,2,Yes,2004,5,730000
+949,Kenmore,Townhouse,Renovated,2830,3,2,1,No,2001,6,551000
+950,Seattle,Townhouse,New,870,2,4,3,Yes,1906,8,271310
+951,Normandy Park,Townhouse,Renovated,2690,4,4,1,No,1954,7,675000
+952,Seattle,Apartment,Old,1260,3,4,2,Yes,2008,9.5,479000
+953,Seattle,Bungalow,Old,2680,4,3,1,Yes,1942,6.8,520000
+954,Seattle,Townhouse,New,2660,3,4,1,Yes,2014,9.4,599950
+955,Seattle,Villa,Old,1480,2,4,2,Yes,1951,5.3,483945
+956,Renton,Bungalow,Old,1770,4,2,1,Yes,1965,6.3,390000
+957,Seattle,Townhouse,New,950,2,3,1,No,1926,4.5,192500
+958,Seattle,Apartment,Old,860,2,4,2,Yes,1948,1,330000
+959,Kent,Bungalow,Renovated,1960,4,2,1,Yes,1978,1.5,250000
+960,Seattle,Townhouse,Renovated,1770,2,2,1,No,1943,6,243000
+961,Seattle,Apartment,Renovated,1280,4,3,2,Yes,1926,7,575000
+962,Redmond,Villa,New,2150,4,2,1,Yes,1982,8,639000
+963,Seattle,Townhouse,Renovated,1790,2,2,1,Yes,1923,4,710000
+964,Redmond,Villa,Old,1990,3,5,2,Yes,1987,5.5,675000
+965,Renton,Villa,Old,2430,5,2,1,Yes,2001,6.4,405000
+966,Bellevue,Townhouse,New,2820,4,3,1,Yes,1965,8.4,615000
+967,Seattle,Townhouse,Old,1910,3,3,1,Yes,1946,5,490000
+968,Seattle,Apartment,Old,1270,3,4,2,Yes,2005,6.1,467000
+969,Seattle,Townhouse,New,2050,4,3,2,Yes,1986,4.5,480000
+970,Seattle,Townhouse,Old,2150,6,5,1,Yes,1952,2.5,755000
+971,Bellevue,Townhouse,Renovated,2450,4,3,1,Yes,1987,6.5,760000
+972,Seattle,Apartment,Renovated,1230,2,3,2,Yes,2012,3.5,387000
+973,Kirkland,Bungalow,Renovated,2260,4,4,2,Yes,1967,6.5,925000
+974,Auburn,Townhouse,New,1050,2,3,2,Yes,1943,9.7,415000
+975,Kent,Villa,Renovated,1570,3,3,2,Yes,1982,8.5,263000
+976,Redmond,Bungalow,Old,1820,4,3,2,Yes,1967,6.5,519900
+977,Seattle,Townhouse,Old,1540,2,3,1,Yes,1908,8.4,570000
+978,Woodinville,Apartment,New,2060,3,4,1,No,1953,9.4,450000
+979,Redmond,Bungalow,Old,4380,4,1,1,No,2001,6.4,1300000
+980,Redmond,Townhouse,Old,1090,3,1,1,No,1955,5.5,300000
+981,Renton,Townhouse,New,1480,3,2,1,Yes,1965,2.5,320000
+982,Seattle,Villa,Old,1320,4,3,1,Yes,1929,3.6,387500
+983,Woodinville,Townhouse,Renovated,2140,1,3,1,No,1976,4.9,458000
+984,Bellevue,Villa,Renovated,4560,4,4,2,Yes,1995,5.5,1212500
+985,Maple Valley,Villa,Renovated,2800,4,3,1,No,2002,2.5,380000
+986,Renton,Townhouse,New,1050,3,5,1,Yes,1967,1,200000
+987,Kenmore,Townhouse,Renovated,1490,3,3,2,Yes,1959,5,385000
+988,Seattle,Apartment,Old,1730,2,3,2,Yes,1945,6,396675
+989,Seattle,Townhouse,Old,1210,4,4,3,Yes,1900,8,452000
+990,Maple Valley,Townhouse,New,2800,4,3,2,Yes,2004,7,426000
+991,Seattle,Townhouse,Old,1570,3,3,2,No,1915,9.5,792000
+992,Auburn,Apartment,Old,1400,3,3,1,Yes,1987,6.8,315000
+993,Seattle,Bungalow,New,2850,4,3,1,Yes,1970,9.4,1275000
+994,Renton,Townhouse,Old,1880,6,4,1,No,1966,6.7,326000
+995,Shoreline,Villa,Renovated,790,2,3,1,Yes,1953,2.3,268500
+996,Seattle,Bungalow,Renovated,1300,2,5,1,Yes,1948,5.3,440000
+997,Renton,Townhouse,Renovated,2120,3,3,1,No,1967,6.3,300000
+998,Seattle,Apartment,New,1540,3,3,2,No,1941,4.5,525000
+999,Seattle,Bungalow,Renovated,2620,4,4,2,No,1926,1,978000
+1000,Seattle,Townhouse,Old,2880,6,3,2,Yes,1919,1.5,1125000
+1001,Seattle,Apartment,Old,1680,4,3,2,Yes,1921,6,700000
+1002,Redmond,Villa,New,790,2,3,2,Yes,1955,7,315000
+1003,Seattle,Townhouse,Old,1092,3,3,1,Yes,1918,8,309000
+1004,Federal Way,Villa,Old,1650,3,4,2,Yes,1967,4,219950
+1005,Covington,Villa,New,2090,3,1,2,Yes,2002,5.5,289000
+1006,SeaTac,Townhouse,Old,2180,4,1,1,Yes,1950,6.4,210000
+1007,Federal Way,Townhouse,Renovated,1990,4,2,1,Yes,1989,8.4,260000
+1008,Seattle,Apartment,Renovated,2650,4,3,1,Yes,2006,5,699000
+1009,Medina,Townhouse,Renovated,4460,4,4,1,Yes,1962,6.1,1800000
+1010,Shoreline,Townhouse,New,910,3,3,1,Yes,1950,4.5,299950
+1011,Bellevue,Townhouse,Renovated,2770,3,5,2,Yes,1992,2.5,749950
+1012,Seattle,Apartment,Old,2390,3,3,2,Yes,1939,6.5,1100000
+1013,Renton,Bungalow,Old,3050,3,3,1,Yes,1987,3.5,555000
+1014,Snoqualmie,Townhouse,New,1700,3,4,2,Yes,2003,6.5,384000
+1015,Renton,Villa,Old,3200,5,3,1,Yes,1989,9.7,499950
+1016,Seattle,Bungalow,Old,1200,3,3,2,No,1906,8.5,430000
+1017,Maple Valley,Townhouse,New,2220,4,3,2,No,1999,6.5,350000
+1018,Redmond,Townhouse,Old,2480,3,3,2,No,2004,8.4,620000
+1019,Redmond,Townhouse,Renovated,2560,4,4,1,Yes,1976,9.4,765000
+1020,Kent,Townhouse,Renovated,2500,4,4,2,Yes,1961,6.4,250000
+1021,Seattle,Townhouse,Renovated,1150,2,4,1,No,1947,5.5,376000
+1022,Seattle,Apartment,New,1650,4,4,2,Yes,1950,2.5,475000
+1023,Federal Way,Bungalow,Renovated,1140,3,4,1,No,1969,3.6,120750
+1024,Seattle,Townhouse,Old,3400,3,3,1,Yes,1957,4.9,1690000
+1025,Issaquah,Apartment,Old,1180,3,2,1,Yes,1959,5.5,330000
+1026,Seattle,Villa,New,1700,3,3,1,Yes,1992,2.5,619500
+1027,Bellevue,Townhouse,Old,1240,3,3,1,Yes,1954,1,345000
+1028,Sammamish,Villa,Old,2890,5,3,1,Yes,1977,5,598000
+1029,Kenmore,Villa,New,1060,3,3,2,No,1967,6,335000
+1030,Shoreline,Townhouse,Old,1590,4,4,1,No,1922,8,372500
+1031,Auburn,Townhouse,Renovated,2860,6,2,2,Yes,1978,7,300000
+1032,Seattle,Apartment,Renovated,820,1,3,1,Yes,2007,9.5,194000
+1033,Bellevue,Townhouse,Renovated,2020,3,2,1,Yes,1963,6.8,507500
+1034,Kirkland,Townhouse,New,1870,4,3,2,Yes,1959,9.4,325000
+1035,Maple Valley,Townhouse,Renovated,2170,3,3,1,Yes,2004,5.3,329900
+1036,Seattle,Apartment,Old,1600,4,3,1,No,1947,6.3,329000
+1037,Seattle,Bungalow,Old,2090,4,3,3,Yes,1925,4.5,494000
+1038,Auburn,Townhouse,New,1700,4,4,1,Yes,1978,1,206000
+1039,Seattle,Villa,Old,1940,4,4,3,No,1941,1.5,423000
+1040,Renton,Bungalow,Old,1320,3,3,2,Yes,1957,6,259000
+1041,Seattle,Townhouse,New,3500,4,3,2,Yes,1938,7,879950
+1042,Seattle,Apartment,Old,2800,5,3,1,Yes,1903,8,345600
+1043,Seattle,Bungalow,Renovated,1080,3,5,1,Yes,1920,4,395000
+1044,Snoqualmie,Townhouse,Renovated,3550,4,4,2,Yes,2007,5.5,625000
+1045,Duvall,Apartment,Renovated,2010,3,4,1,Yes,2003,6.4,439000
+1046,Seattle,Villa,New,1690,3,5,2,Yes,2008,8.4,380000
+1047,Seattle,Townhouse,Renovated,1270,3,3,1,Yes,2007,5,440000
+1048,Seattle,Villa,Old,1970,3,2,2,Yes,2008,6.1,415000
+1049,Kirkland,Villa,Old,3160,4,4,1,Yes,2014,4.5,860000
+1050,Seattle,Townhouse,New,1210,3,3,1,Yes,2008,2.5,500000
+1051,Seattle,Townhouse,Old,3120,4,4,1,Yes,2008,6.5,953007
+1052,Renton,Apartment,Old,2670,4,3,2,Yes,2006,3.5,515000
+1053,Seattle,Townhouse,New,1640,3,4,1,Yes,2014,6.5,772000
+1054,Auburn,Townhouse,Old,2303,4,2,1,Yes,2013,9.7,329995
+1055,Snoqualmie,Townhouse,Renovated,1800,3,3,1,Yes,2014,8.5,409316
+1056,Seattle,Apartment,Renovated,4460,5,3,2,Yes,2013,6.5,490000
+1057,Seattle,Bungalow,Renovated,1590,2,2,2,No,2009,8.4,305000
+1058,Issaquah,Townhouse,New,3070,4,3,1,No,2009,9.4,785000
+1059,SeaTac,Villa,Renovated,1330,2,4,1,No,1993,6.4,240000
+1060,Seattle,Bungalow,Old,990,3,3,1,Yes,1947,5.5,325000
+1061,Issaquah,Townhouse,Old,1900,4,4,1,Yes,1994,2.5,535800
+1062,Seattle,Apartment,New,2020,3,3,1,No,2000,3.6,720000
+1063,Kirkland,Bungalow,Old,2000,3,3,3,Yes,1961,4.9,374000
+1064,Des Moines,Townhouse,Old,1100,2,2,2,No,1980,5.5,189650
+1065,Carnation,Apartment,Old,960,1,4,1,Yes,1945,2.5,420850
+1066,Redmond,Villa,Renovated,3488,4,4,1,Yes,1998,1,815000
+1067,Bellevue,Townhouse,Renovated,1890,2,4,1,Yes,1987,5,1065000
+1068,Seattle,Villa,Renovated,2030,4,3,2,Yes,1950,6,199000
+1069,Covington,Villa,New,1380,3,4,1,Yes,1981,8,195000
+1070,Seattle,Townhouse,Renovated,3660,4,4,2,No,1909,7,1506000
+1071,Renton,Townhouse,Old,1870,3,2,2,Yes,1997,9.5,288400
+1072,Sammamish,Apartment,Old,2080,4,3,1,Yes,1979,6.8,442000
+1073,Newcastle,Townhouse,New,2450,4,4,1,No,1988,9.4,619420
+1074,Seattle,Townhouse,Old,2750,4,2,2,Yes,1948,5.3,635000
+1075,Seattle,Townhouse,Old,1240,3,2,1,Yes,1916,6.8,210000
+1076,Kirkland,Apartment,New,1900,3,3,1,No,1990,9.1,512500
+1077,Kirkland,Bungalow,Old,2540,3,2,1,No,1999,5.8,567000
+1079,Snoqualmie Pass,Townhouse,Renovated,2100,3,2,1,No,1998,3,525000
+1080,Seattle,Villa,Renovated,1790,4,5,2,Yes,1909,6,475000
+1081,Auburn,Bungalow,Renovated,1170,3,4,2,Yes,1984,8,250000
+1082,Enumclaw,Townhouse,New,1060,3,1,2,Yes,1956,5,220000
+1083,Seattle,Apartment,Renovated,1930,5,1,2,Yes,1941,1,230000
+1084,Bothell,Bungalow,Old,1540,3,2,2,Yes,1961,1,385500
+1085,Mercer Island,Townhouse,Old,2876,5,3,2,Yes,1973,2,895000
+1086,Sammamish,Apartment,New,2150,3,3,3,Yes,1988,3,368250
+1087,Seattle,Villa,Old,1140,2,4,1,Yes,1947,5,249900
+1088,Kirkland,Townhouse,Old,980,3,3,3,Yes,1969,6,350000
+1089,Auburn,Villa,New,1230,3,5,2,Yes,1962,5.6,175000
+1090,Seattle,Villa,Old,1390,3,3,2,Yes,1957,5.5,270000
+1091,Seattle,Townhouse,Renovated,2380,3,3,2,Yes,1997,4.5,495000
+1092,Kirkland,Townhouse,Renovated,3690,3,4,2,Yes,2007,1,1580000
+1093,Issaquah,Apartment,Renovated,3010,5,3,1,Yes,1931,1.5,542500
+1094,Woodinville,Townhouse,New,1250,3,3,2,Yes,1969,6,330000
+1095,Seattle,Townhouse,Renovated,2290,4,3,1,Yes,1926,7,1003000
+1096,Seattle,Townhouse,Old,790,2,3,2,No,1925,8,299800
+1097,Auburn,Apartment,Old,2720,3,4,1,No,2002,4,299900
+1098,Kirkland,Bungalow,New,2550,4,1,2,No,1972,5.5,691000
+1099,Des Moines,Townhouse,Old,1080,2,1,1,Yes,1972,6.4,195000
+1100,Des Moines,Villa,Old,2470,3,2,1,Yes,1962,8.4,405000
+1101,Seattle,Bungalow,New,850,2,3,1,No,1909,5,360000
+1102,Kent,Townhouse,Old,1990,3,3,1,Yes,1969,6.1,256750
+1103,Maple Valley,Townhouse,Renovated,1800,3,4,2,No,1995,4.5,332500
+1104,Bellevue,Townhouse,Renovated,4850,5,3,1,Yes,1977,2.5,975000
+1105,Seattle,Townhouse,Renovated,1020,3,5,1,Yes,1956,6.5,218000
+1106,Issaquah,Townhouse,New,2420,3,3,1,Yes,1985,3.5,429000
+1107,Snoqualmie,Apartment,Renovated,2910,4,3,1,Yes,1998,6.5,589000
+1108,Renton,Bungalow,Old,1060,3,4,1,Yes,1973,9.7,255000
+1109,Shoreline,Townhouse,Old,2340,4,3,1,No,1964,8.5,668750
+1110,Renton,Apartment,New,1800,4,3,1,No,2002,6.5,344500
+1111,Seattle,Townhouse,Old,1660,4,3,1,No,1945,8.4,452000
+1112,Redmond,Townhouse,Old,1300,3,3,2,Yes,1983,9.4,540000
+1113,Seattle,Villa,New,1780,3,4,2,Yes,1953,6.4,246000
+1114,Seattle,Villa,Old,1030,2,3,1,Yes,1939,5.5,535000
+1115,Shoreline,Townhouse,Renovated,2790,4,5,2,Yes,1963,2.5,970000
+1116,Seattle,Townhouse,Renovated,1150,3,3,1,Yes,1906,3.6,430000
+1117,Kenmore,Apartment,Renovated,3290,4,3,2,Yes,1992,4.9,520000
+1118,Ravensdale,Townhouse,New,3400,4,4,2,Yes,2001,5.5,712000
+1119,Seattle,Townhouse,Renovated,1200,2,3,1,Yes,1940,2.5,450000
+1120,Pacific,Townhouse,Old,2160,4,3,1,Yes,1993,1,220000
+1121,Seattle,Apartment,Old,1450,3,3,2,Yes,1948,5,525000
+1122,Seattle,Bungalow,New,3240,4,3,1,Yes,2008,6,1220000
+1123,Seattle,Townhouse,Old,1470,3,4,2,Yes,2007,8,540000
+1124,Kirkland,Villa,Old,2360,4,1,2,Yes,2001,7,600000
+1125,Bellevue,Bungalow,New,2230,3,1,1,Yes,1987,9.5,600000
+1126,Woodinville,Townhouse,Old,2630,4,2,1,Yes,1986,6.8,625000
+1127,Carnation,Apartment,Renovated,1010,3,3,2,Yes,1966,9.4,150000
+1128,Issaquah,Bungalow,Renovated,1445,3,4,1,No,2003,5.3,389999
+1129,Seattle,Townhouse,Renovated,2380,3,3,1,No,1935,6.3,285000
+1130,Sammamish,Apartment,New,2830,4,5,1,No,1998,4.5,744000
+1131,Redmond,Villa,Renovated,3010,4,3,2,Yes,1996,1,700000
+1132,Federal Way,Townhouse,Old,2000,4,3,1,Yes,1978,1.5,318989
+1133,Kirkland,Townhouse,Old,2020,3,4,1,No,1998,6,556000
+1134,Maple Valley,Villa,New,2030,3,3,1,Yes,1993,7,275000
+1135,Shoreline,Townhouse,Old,2550,3,3,2,No,1994,8,430000
+1136,Seattle,Townhouse,Old,970,2,3,1,Yes,1949,4,300000
+1137,Issaquah,Apartment,New,1540,3,3,2,Yes,1967,5.5,396450
+1138,Redmond,Townhouse,Old,1396,2,4,2,Yes,1940,6.4,225000
+1139,Seattle,Townhouse,Renovated,2780,4,4,2,Yes,2006,8.4,700000
+1140,Auburn,Townhouse,Renovated,2220,6,4,2,Yes,1977,5,260000
+1141,Kirkland,Apartment,Renovated,2350,4,4,1,No,1994,6.1,655000
+1142,Bellevue,Bungalow,New,2760,3,4,2,Yes,1978,4.5,1185000
+1143,Kirkland,Townhouse,Renovated,4460,3,3,2,Yes,1992,2.5,1550000
+1144,Redmond,Villa,Old,1440,3,2,2,No,2007,6.5,413800
+1145,Issaquah,Bungalow,Old,5330,5,3,1,Yes,2006,3.5,950000
+1146,Seattle,Townhouse,New,2220,4,3,1,Yes,2014,6.5,334990
+1147,Kirkland,Apartment,Old,5305,5,3,1,No,2005,9.7,2700000
+1148,Kirkland,Bungalow,Old,3880,3,3,2,No,2009,8.5,1030000
+1149,Kirkland,Townhouse,New,3810,4,4,1,No,2007,6.5,1130000
+1150,Issaquah,Apartment,Old,1960,3,2,1,Yes,2007,8.4,556000
+1151,Seattle,Villa,Renovated,1530,3,3,2,Yes,2009,9.4,360000
+1153,Kent,Townhouse,Renovated,3250,4,2,2,Yes,1983,6.4,480000
+1154,Renton,Villa,Renovated,1750,3,3,1,Yes,1994,5.5,324000
+1155,Kirkland,Villa,New,3440,4,3,2,Yes,1983,2.5,1050000
+1156,Enumclaw,Townhouse,Renovated,1170,1,3,1,Yes,1962,3.6,275000
+1157,Covington,Townhouse,Old,870,3,3,1,Yes,1969,4.9,180000
+1160,Sammamish,Apartment,Old,2930,4,4,1,Yes,1998,5.5,749000
+1161,Bellevue,Townhouse,New,3160,3,4,1,Yes,1966,2.5,1600000
+1162,Seattle,Townhouse,Old,800,2,3,2,Yes,1918,1,373500
+1163,Bellevue,Townhouse,Old,2350,4,3,1,Yes,1987,5,770000
+1164,Woodinville,Apartment,New,1060,2,3,1,Yes,1977,6,356000
+1165,Redmond,Bungalow,Old,2060,3,5,2,Yes,1984,8,625000
+1166,Seattle,Townhouse,Renovated,1560,2,4,1,Yes,1904,7,494400
+1167,Renton,Villa,Renovated,3000,4,4,3,Yes,1950,9.5,585000
+1168,Seattle,Bungalow,Renovated,1660,3,5,1,Yes,1907,6.8,926300
+1169,Seattle,Townhouse,New,1650,3,3,3,No,1908,9.4,600000
+1170,Kent,Apartment,Renovated,3220,4,2,2,No,1990,6.7,430000
+1171,Duvall,Bungalow,Old,2320,3,4,3,No,1976,2.3,307000
+1172,Des Moines,Townhouse,Old,2750,4,3,2,Yes,1981,5.3,604700
+1173,Seattle,Apartment,New,910,3,4,2,Yes,1956,6.3,219900
+1174,Seattle,Villa,Old,840,2,3,3,No,2005,4.5,270000
+1175,Seattle,Townhouse,Old,1470,3,4,1,Yes,2007,1,432000
+1176,Renton,Villa,New,2040,6,2,1,No,1943,1.5,300000
+1177,Des Moines,Villa,Old,1100,3,3,2,Yes,1922,6,361000
+1178,Burien,Townhouse,Renovated,940,2,3,2,Yes,1959,7,249950
+1179,North Bend,Townhouse,Renovated,1110,3,2,1,Yes,1978,8,320000
+1180,Seattle,Townhouse,Renovated,2200,4,3,1,Yes,1942,4,305000
+1181,Federal Way,Townhouse,New,2860,2,4,2,Yes,1948,5.5,503000
+1182,Seattle,Townhouse,Renovated,740,2,3,1,No,1938,6.4,235750
+1183,Seattle,Townhouse,Old,2740,4,4,1,Yes,1954,8.4,657000
+1184,Bellevue,Apartment,Old,1250,3,3,1,Yes,1956,5,385000
+1185,Federal Way,Bungalow,New,3140,4,3,2,No,1991,6.1,389950
+1186,Seattle,Townhouse,Old,820,2,2,2,Yes,1954,4.5,150000
+1187,Auburn,Villa,Old,2570,4,4,1,Yes,1998,2.5,254500
+1188,Bellevue,Bungalow,New,2350,4,4,1,Yes,1977,6.5,555000
+1189,Bellevue,Townhouse,Old,3600,4,4,1,Yes,1976,3.5,1075000
+1190,Federal Way,Townhouse,Renovated,1580,4,3,2,Yes,1967,6.5,245000
+1191,Seattle,Townhouse,Renovated,1070,2,4,1,Yes,1949,9.7,319950
+1192,Seattle,Townhouse,Renovated,1070,3,4,2,Yes,1951,8.5,337000
+1193,Seattle,Townhouse,New,1640,4,2,2,Yes,1907,6.5,492000
+1194,Kirkland,Apartment,Renovated,2890,3,3,2,Yes,1987,8.4,1170000
+1195,Kirkland,Bungalow,Old,1220,3,4,1,Yes,1966,9.4,348580
+1196,Renton,Townhouse,Old,1400,2,2,1,Yes,1922,6.4,180000
+1197,Seattle,Apartment,New,1040,3,2,1,Yes,1942,5.5,400000
+1198,North Bend,Villa,Old,980,4,3,2,Yes,1978,2.5,295000
+1199,Redmond,Townhouse,Old,3340,4,2,2,Yes,1963,3.6,910000
+1200,Issaquah,Villa,New,6040,6,2,1,Yes,1996,4.9,1150000
+1201,Seattle,Villa,Old,1900,3,5,1,Yes,2008,5.5,431500
+1202,SeaTac,Townhouse,Renovated,1740,4,3,2,Yes,1962,2.5,180000
+1203,Seattle,Townhouse,Renovated,2000,3,4,2,No,1916,1,677000
+1204,Seattle,Townhouse,Renovated,1610,3,1,2,No,1973,5,1180500
+1205,Sammamish,Townhouse,New,3240,4,1,1,No,1977,6,635700
+1206,Woodinville,Townhouse,Renovated,2230,5,2,1,Yes,1978,8,482000
+1207,Seattle,Townhouse,Old,1160,2,3,2,Yes,1998,7,168000
+1208,Seattle,Apartment,Old,2410,4,3,1,No,1950,9.5,805000
+1209,Black Diamond,Bungalow,New,590,2,4,2,Yes,1983,6.8,398000
+1210,Newcastle,Townhouse,Old,2600,4,3,1,No,1996,9.4,665000
+1211,Redmond,Villa,Old,2170,4,5,1,Yes,1968,5.3,592500
+1212,Seattle,Bungalow,New,2080,4,3,2,Yes,1912,6.3,940000
+1213,Sammamish,Townhouse,Old,2860,4,3,1,Yes,1999,4.5,655000
+1214,Snoqualmie,Townhouse,Renovated,2980,4,4,1,Yes,2000,1,622500
+1215,Seattle,Townhouse,Renovated,1230,2,3,2,Yes,2011,1.5,380000
+1216,Kirkland,Townhouse,Renovated,2260,4,3,1,No,1947,6,648360
+1217,Redmond,Apartment,New,2200,3,3,2,Yes,1982,7,432000
+1218,Bellevue,Villa,Renovated,3030,4,3,1,Yes,1988,8,1050000
+1219,Seattle,Townhouse,Old,1060,2,4,1,No,1979,4,353250
+1220,Sammamish,Villa,Old,4260,4,1,1,Yes,1996,5.5,1000000
+1221,Seattle,Villa,New,998,3,1,1,Yes,2007,6.4,320000
+1222,Federal Way,Townhouse,Old,2052,4,2,1,No,2014,8.4,349900
+1223,Kent,Townhouse,Old,3150,4,3,2,No,2005,5,330000
+1224,SeaTac,Apartment,New,1950,3,3,2,No,2006,4,408000
+1225,Seattle,Townhouse,Old,1347,3,4,1,Yes,2010,5.5,321000
+1226,Issaquah,Townhouse,Renovated,3860,4,3,1,Yes,2007,6.4,1051000
+1227,Bellevue,Townhouse,Renovated,5060,4,5,1,Yes,2008,8.4,2150000
+1228,Seattle,Apartment,Renovated,1360,3,3,2,Yes,2008,5,359000
+1229,Seattle,Bungalow,New,2760,5,3,1,Yes,2006,6.1,300000
+1230,Seattle,Townhouse,Renovated,2420,5,4,2,Yes,2013,4.5,380000
+1231,Redmond,Villa,Old,2450,3,3,1,Yes,2010,2.5,660000
+1232,Seattle,Bungalow,Old,1280,3,3,1,Yes,2005,6.5,355000
+1233,Auburn,Townhouse,New,1550,3,3,1,Yes,2011,3.5,259000
+1234,Seattle,Apartment,Old,550,1,3,1,Yes,2008,6.5,353000
+1235,Seattle,Bungalow,Old,1520,2,4,1,Yes,2007,9.7,430000
+1236,Seattle,Townhouse,New,1670,3,3,2,Yes,1939,8.5,460000
+1237,Carnation,Apartment,Old,430,1,5,1,Yes,1912,6.5,80000
+1238,Bellevue,Villa,Renovated,2380,4,3,2,Yes,1991,8.4,782000
+1239,Enumclaw,Townhouse,Renovated,960,3,3,1,Yes,1982,9.4,218000
+1240,Seattle,Villa,Renovated,1920,3,4,1,Yes,1952,6.4,325000
+1241,Seattle,Villa,New,3680,4,3,1,No,1967,5.5,980000
+1242,Bellevue,Townhouse,Renovated,2530,4,3,1,No,1976,2.5,902000
+1243,Federal Way,Townhouse,Old,3840,5,3,1,No,1991,3.6,556000
+1244,Seattle,Apartment,Old,1240,3,3,1,Yes,1926,4.9,662990
+1245,Ravensdale,Bungalow,New,1300,2,4,1,Yes,1975,5.5,225000
+1246,Renton,Townhouse,Old,2380,4,1,1,No,2002,2.5,439950
+1247,Auburn,Townhouse,Old,1300,2,1,1,Yes,1958,1,175000
+1248,Woodinville,Apartment,New,780,2,2,1,No,1946,5,306000
+1249,Kent,Bungalow,Old,1810,4,3,1,Yes,1970,6,235000
+1250,North Bend,Townhouse,Renovated,2420,3,4,2,Yes,1911,8,399500
+1251,Seattle,Villa,Renovated,1280,3,3,1,Yes,1910,7,478000
+1252,Seattle,Bungalow,Renovated,1680,2,5,1,Yes,1941,9.5,515000
+1253,Renton,Townhouse,New,2510,3,3,2,Yes,1992,6.8,550000
+1254,Seattle,Apartment,Renovated,1700,3,3,2,No,1955,9.4,149000
+1255,Seattle,Bungalow,Old,1680,3,4,2,No,1992,5.3,526000
+1256,Snoqualmie,Townhouse,Old,820,1,3,3,Yes,1999,6.8,527550
+1257,Redmond,Apartment,New,4380,3,3,2,Yes,1983,9.1,1050000
+1258,Sammamish,Villa,Old,2600,3,3,1,Yes,1984,5.8,625000
+1259,Bellevue,Townhouse,Old,3400,5,3,3,Yes,1999,3,950000
+1260,Shoreline,Townhouse,Old,2120,5,4,3,Yes,1942,6,377691
+1261,Seattle,Villa,Renovated,2250,4,4,1,No,1951,8,648475
+1262,Seattle,Townhouse,Renovated,1800,3,4,2,Yes,1942,5,383000
+1263,Redmond,Townhouse,Renovated,2210,3,4,1,Yes,1994,1,535000
+1264,Seattle,Apartment,New,1560,3,4,1,No,1923,1,449950
+1265,Woodinville,Townhouse,Renovated,2430,4,3,1,Yes,1967,2,465425
+1266,Sammamish,Townhouse,Old,2560,4,2,2,Yes,1987,3,675000
+1267,Seattle,Townhouse,Old,1960,3,3,1,Yes,1926,5,599000
+1268,Redmond,Apartment,New,1110,3,3,1,Yes,1963,6,416000
+1269,Seattle,Bungalow,Old,1030,2,3,2,Yes,1924,5.6,595000
+1270,Renton,Townhouse,Old,1350,4,3,2,Yes,1966,5.5,200000
+1271,Issaquah,Villa,New,1540,3,4,2,Yes,2005,4.5,402000
+1272,Bellevue,Townhouse,Old,1830,4,2,1,Yes,1966,1,433000
+1273,Federal Way,Townhouse,Renovated,1930,4,3,1,Yes,1979,1.5,275000
+1274,Kirkland,Townhouse,Renovated,1650,3,2,2,Yes,1983,6,410000
+1275,Burien,Townhouse,Renovated,3510,4,3,1,Yes,1965,7,554820
+1276,Seattle,Townhouse,New,3370,4,3,1,Yes,1988,8,1325000
+1277,Redmond,Townhouse,Renovated,2390,3,3,2,Yes,1984,4,735000
+1278,Bellevue,Apartment,Old,1230,3,3,1,Yes,1951,5.5,607000
+1279,Auburn,Bungalow,Old,2830,4,4,1,Yes,1987,6.4,549900
+1280,Maple Valley,Townhouse,New,1620,3,4,1,Yes,1988,8.4,258000
+1281,Seattle,Apartment,Old,2290,4,3,2,Yes,1940,5,661254
+1282,Clyde Hill,Villa,Old,2840,4,3,1,No,1952,6.1,945000
+1283,Auburn,Townhouse,New,4220,4,3,2,No,1993,4.5,799950
+1284,Auburn,Villa,Old,1080,3,5,2,No,1967,2.5,132500
+1285,Redmond,Villa,Renovated,1620,3,4,1,Yes,1973,6.5,467100
+1286,Mercer Island,Townhouse,Renovated,4390,4,4,1,Yes,1990,3.5,1610000
+1287,Seattle,Townhouse,Renovated,1620,3,5,1,No,1926,6.5,641000
+1288,Shoreline,Apartment,New,1010,3,3,1,Yes,1947,9.7,350000
+1289,Renton,Townhouse,Renovated,1750,4,2,1,No,1983,8.5,335000
+1290,Auburn,Townhouse,Old,4080,3,4,1,Yes,2000,6.5,900000
+1291,Issaquah,Townhouse,Old,2560,4,3,2,Yes,1965,8.4,440000
+1292,Seattle,Apartment,New,1120,3,4,1,Yes,1925,9.4,464600
+1293,Redmond,Bungalow,Old,4740,4,3,1,Yes,2003,6.4,1200000
+1294,Seattle,Townhouse,Old,1340,2,4,1,Yes,1947,5.5,300000
+1295,Seattle,Villa,New,1590,4,2,2,No,1951,2.5,670500
+1296,Seattle,Bungalow,Old,1430,3,3,2,Yes,1919,3.6,552000
+1297,Seattle,Townhouse,Renovated,1450,4,3,1,Yes,1943,4.9,244000
+1298,Redmond,Apartment,Renovated,3500,4,2,1,No,2005,5.5,788600
+1299,Renton,Bungalow,Renovated,1630,3,3,1,Yes,1987,2.5,445000
+1300,Seattle,Townhouse,New,1814,4,4,1,Yes,1951,1,530000
+1301,Seattle,Townhouse,Renovated,580,2,3,1,No,1943,5,90000
+1302,Seattle,Villa,Old,1670,3,4,1,No,1931,6,585000
+1303,Kirkland,Townhouse,Old,1140,2,3,2,No,1924,8,498000
+1304,Seattle,Villa,New,800,2,3,1,Yes,1940,7,379000
+1305,Seattle,Villa,Old,1300,3,2,3,Yes,1919,9.5,462000
+1306,Renton,Townhouse,Old,2440,4,4,1,Yes,1993,6.8,388000
+1307,Kent,Townhouse,New,1490,3,4,1,Yes,1984,9.4,255000
+1308,Bellevue,Apartment,Old,1800,3,4,1,Yes,1966,5.3,665000
+1309,Bellevue,Townhouse,Renovated,1830,3,3,2,Yes,1959,6.3,550000
+1310,Seattle,Townhouse,Renovated,1500,3,4,1,Yes,1947,4.5,606000
+1311,Seattle,Townhouse,Renovated,2210,4,4,1,Yes,1965,1,334000
+1312,Seattle,Apartment,New,1270,3,2,2,Yes,2006,1.5,360000
+1313,Seattle,Townhouse,Renovated,1140,2,3,1,Yes,2007,6,235000
+1314,Seattle,Townhouse,Old,1620,3,4,2,Yes,2008,7,580000
+1315,Seattle,Villa,Old,1220,3,2,1,Yes,2007,8,355000
+1316,Seattle,Bungalow,New,750,2,2,1,Yes,2006,4,375000
+1317,North Bend,Townhouse,Old,1960,4,3,1,Yes,1979,5.5,372000
+1318,Seattle,Townhouse,Old,1370,3,2,2,Yes,1924,6.4,479000
+1319,Sammamish,Bungalow,New,4580,5,2,3,Yes,2004,8.4,2000000
+1320,Carnation,Townhouse,Old,5584,5,5,2,No,1998,5,1680000
